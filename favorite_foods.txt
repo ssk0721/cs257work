@@ -1,3 +1,6 @@
 Korean
 Italian
 Mexican
+American
+Japanese
+Chinese
