@@ -13,20 +13,23 @@ WHERE positiongroup = 'TotalPayroll'
 GROUP BY team 
 ORDER BY avgtotalpayroll DESC;
 
-/* List of all teams that have made the world series, the number of times they have made the world series, the number of times they have won the world series, and the position group they have spent the most on during the years they made the world series. Ordered by the amount of times they have won the world series. */
+/* List of all teams that have made the world series, the number of times they have made the world series, the number of times they have won the world series, the position group they have spent the most on during the years they made the world series, . Ordered by the amount of times they have won the world series. */
 
 
 WITH get_teams_made_world_series AS (SELECT team, teamyear, teamyearID, positiongroup, payrollamount, roundmade 
     FROM salaries
     WHERE positiongroup != 'TotalPayroll' AND roundmade >=4
     GROUP BY team, teamyearID, positiongroup, roundmade, teamyear, payrollamount, roundmade),
-    get_per_position_payroll AS (SELECT team, positiongroup, SUM(payrollamount) AS totalpayrollposition, teamyearID, roundmade
+    get_per_position_payroll AS (SELECT team, positiongroup, SUM(payrollamount) AS totalpayrollposition, COUNT(DISTINCT CASE WHEN roundmade >= 4 THEN teamyearID ELSE NULL END) AS madeworldseries, COUNT(DISTINCT CASE WHEN roundmade = 5 THEN teamyearID ELSE NULL END) AS wonworldseries
     FROM get_teams_made_world_series
-    GROUP BY team, positiongroup, teamyearID, roundmade)
-    SELECT team, MAX(totalpayrollposition), teamyearID, roundmade
-    FROM get_per_position_payroll
-    GROUP BY team)
+    GROUP BY team, positiongroup),
+    get_rankings_position_payroll AS (SELECT team, positiongroup, madeworldseries, wonworldseries, RANK() OVER (PARTITION BY team ORDER BY totalpayrollposition DESC) AS payroll_rank, totalpayrollposition
+    FROM get_per_position_payroll)
+    
 
-SELECT team, COUNT(DISTINCT CASE WHEN roundmade >= 4 THEN teamyearID ELSE NULL END) AS madeworldseries, COUNT(DISTINCT CASE WHEN roundmade = 5 THEN teamyearID ELSE NULL END) AS wonworldseries,
+SELECT team, madeworldseries, wonworldseries, positiongroup AS HighestPositionGroupEarner, totalpayrollposition AS MoneyEarned
+FROM get_rankings_position_payroll
+WHERE payroll_rank = 1
+ORDER BY madeworldseries DESC
 
 
