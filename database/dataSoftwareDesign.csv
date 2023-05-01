@@ -1,0 +1,1981 @@
+Team,WinPercentage,year,roundMade,PositionGroup,totalpayroll,teamyearID
+Los Angeles Dodgers,0.685,2022,2,Catchers,3480000,2022LosAngelesDodgers
+Los Angeles Dodgers,0.685,2022,2,Infielders,70223840,2022LosAngelesDodgers
+Los Angeles Dodgers,0.685,2022,2,Outfielders,58520860,2022LosAngelesDodgers
+Los Angeles Dodgers,0.685,2022,2,DH,13000000,2022LosAngelesDodgers
+Los Angeles Dodgers,0.685,2022,2,Pitchers,85779222,2022LosAngelesDodgers
+Los Angeles Dodgers,0.685,2022,2,TotalPayroll,270381426,2022LosAngelesDodgers
+New York Mets,0.623,2022,1,Catchers,9059230,2022NewYorkMets
+New York Mets,0.623,2022,1,Infielders,55471150,2022NewYorkMets
+New York Mets,0.623,2022,1,Outfielders,35551276,2022NewYorkMets
+New York Mets,0.623,2022,1,DH,2888496,2022NewYorkMets
+New York Mets,0.623,2022,1,Pitchers,128092737,2022NewYorkMets
+New York Mets,0.623,2022,1,TotalPayroll,268292506,2022NewYorkMets
+New York Yankees,0.611,2022,3,Catchers,1655000,2022NewYorkYankees
+New York Yankees,0.611,2022,3,Infielders,44869766,2022NewYorkYankees
+New York Yankees,0.611,2022,3,Outfielders,60438450,2022NewYorkYankees
+New York Yankees,0.611,2022,3,DH,23000000,2022NewYorkYankees
+New York Yankees,0.611,2022,3,Pitchers,84713587,2022NewYorkYankees
+New York Yankees,0.611,2022,3,TotalPayroll,252957200,2022NewYorkYankees
+Philadelphia Phillies,0.537,2022,4,Catchers,24579500,2022PhiladelphiaPhillies
+Philadelphia Phillies,0.537,2022,4,Infielders,24997530,2022PhiladelphiaPhillies
+Philadelphia Phillies,0.537,2022,4,Outfielders,39864676,2022PhiladelphiaPhillies
+Philadelphia Phillies,0.537,2022,4,DH,27638462,2022PhiladelphiaPhillies
+Philadelphia Phillies,0.537,2022,4,Pitchers,74677627,2022PhiladelphiaPhillies
+Philadelphia Phillies,0.537,2022,4,TotalPayroll,244484097,2022PhiladelphiaPhillies
+San Diego Padres,0.549,2022,3,Catchers,3632662,2022SanDiegoPadres
+San Diego Padres,0.549,2022,3,Infielders,43620928,2022SanDiegoPadres
+San Diego Padres,0.549,2022,3,Outfielders,37137333,2022SanDiegoPadres
+San Diego Padres,0.549,2022,3,DH,0,2022SanDiegoPadres
+San Diego Padres,0.549,2022,3,Pitchers,89543109,2022SanDiegoPadres
+San Diego Padres,0.549,2022,3,TotalPayroll,224511694,2022SanDiegoPadres
+Boston Red Sox,0.481,2022,0,Catchers,454008,2022BostonRedSox
+Boston Red Sox,0.481,2022,0,Infielders,33251746,2022BostonRedSox
+Boston Red Sox,0.481,2022,0,Outfielders,10550000,2022BostonRedSox
+Boston Red Sox,0.481,2022,0,DH,19350000,2022BostonRedSox
+Boston Red Sox,0.481,2022,0,Pitchers,46163402,2022BostonRedSox
+Boston Red Sox,0.481,2022,0,TotalPayroll,211812131,2022BostonRedSox
+Chicago White Sox,0.5,2022,0,Catchers,18319228,2022ChicagoWhiteSox
+Chicago White Sox,0.5,2022,0,Infielders,43339730,2022ChicagoWhiteSox
+Chicago White Sox,0.5,2022,0,Outfielders,23887177,2022ChicagoWhiteSox
+Chicago White Sox,0.5,2022,0,DH,1386067,2022ChicagoWhiteSox
+Chicago White Sox,0.5,2022,0,Pitchers,68996311,2022ChicagoWhiteSox
+Chicago White Sox,0.5,2022,0,TotalPayroll,203205326,2022ChicagoWhiteSox
+Houston Astros,0.654,2022,5,Catchers,7461568,2022HoustonAstros
+Houston Astros,0.654,2022,5,Infielders,58005501,2022HoustonAstros
+Houston Astros,0.654,2022,5,Outfielders,2615540,2022HoustonAstros
+Houston Astros,0.654,2022,5,DH,764600,2022HoustonAstros
+Houston Astros,0.654,2022,5,Pitchers,76567521,2022HoustonAstros
+Houston Astros,0.654,2022,5,TotalPayroll,183791796,2022HoustonAstros
+Atlanta Braves,0.623,2022,2,Catchers,8667071,2022AtlantaBraves
+Atlanta Braves,0.623,2022,2,Infielders,31301106,2022AtlantaBraves
+Atlanta Braves,0.623,2022,2,Outfielders,27258252,2022AtlantaBraves
+Atlanta Braves,0.623,2022,2,DH,16000000,2022AtlantaBraves
+Atlanta Braves,0.623,2022,2,Pitchers,60407303,2022AtlantaBraves
+Atlanta Braves,0.623,2022,2,TotalPayroll,183438888,2022AtlantaBraves
+Los Angeles Angels,0.451,2022,0,Catchers,4776922,2022LosAngelesAngels
+Los Angeles Angels,0.451,2022,0,Infielders,43079080,2022LosAngelesAngels
+Los Angeles Angels,0.451,2022,0,Outfielders,38415343,2022LosAngelesAngels
+Los Angeles Angels,0.451,2022,0,DH,0,2022LosAngelesAngels
+Los Angeles Angels,0.451,2022,0,Pitchers,31832908,2022LosAngelesAngels
+Los Angeles Angels,0.451,2022,0,TotalPayroll,179877811,2022LosAngelesAngels
+Toronto Blue Jays,0.568,2022,1,Catchers,2890914,2022TorontoBlueJays
+Toronto Blue Jays,0.568,2022,1,Infielders,26632640,2022TorontoBlueJays
+Toronto Blue Jays,0.568,2022,1,Outfielders,34100179,2022TorontoBlueJays
+Toronto Blue Jays,0.568,2022,1,DH,10650000,2022TorontoBlueJays
+Toronto Blue Jays,0.568,2022,1,Pitchers,67401081,2022TorontoBlueJays
+Toronto Blue Jays,0.568,2022,1,TotalPayroll,177071670,2022TorontoBlueJays
+San Francisco Giants,0.5,2022,0,Catchers,1071820,2022SanFranciscoGiants
+San Francisco Giants,0.5,2022,0,Infielders,18170156,2022SanFranciscoGiants
+San Francisco Giants,0.5,2022,0,Outfielders,6376150,2022SanFranciscoGiants
+San Francisco Giants,0.5,2022,0,DH,3500000,2022SanFranciscoGiants
+San Francisco Giants,0.5,2022,0,Pitchers,14128074,2022SanFranciscoGiants
+San Francisco Giants,0.5,2022,0,TotalPayroll,162453046,2022SanFranciscoGiants
+St. Louis Cardinals,0.574,2022,1,Catchers,10718300,2022St.LouisCardinals
+St. Louis Cardinals,0.574,2022,1,Infielders,56619066,2022St.LouisCardinals
+St. Louis Cardinals,0.574,2022,1,Outfielders,7110821,2022St.LouisCardinals
+St. Louis Cardinals,0.574,2022,1,DH,3080750,2022St.LouisCardinals
+St. Louis Cardinals,0.574,2022,1,Pitchers,57194604,2022St.LouisCardinals
+St. Louis Cardinals,0.574,2022,1,TotalPayroll,156428325,2022St.LouisCardinals
+Chicago Cubs,0.457,2022,0,Catchers,16148056,2022ChicagoCubs
+Chicago Cubs,0.457,2022,0,Infielders,4853440,2022ChicagoCubs
+Chicago Cubs,0.457,2022,0,Outfielders,15811500,2022ChicagoCubs
+Chicago Cubs,0.457,2022,0,DH,1450000,2022ChicagoCubs
+Chicago Cubs,0.457,2022,0,Pitchers,44965508,2022ChicagoCubs
+Chicago Cubs,0.457,2022,0,TotalPayroll,151054737,2022ChicagoCubs
+Texas Rangers,0.42,2022,0,Catchers,1725526,2022TexasRangers
+Texas Rangers,0.42,2022,0,Infielders,61185202,2022TexasRangers
+Texas Rangers,0.42,2022,0,Outfielders,6590896,2022TexasRangers
+Texas Rangers,0.42,2022,0,DH,0,2022TexasRangers
+Texas Rangers,0.42,2022,0,Pitchers,31737462,2022TexasRangers
+Texas Rangers,0.42,2022,0,TotalPayroll,150037446,2022TexasRangers
+Minnesota Twins,0.481,2022,0,Catchers,9713050,2022MinnesotaTwins
+Minnesota Twins,0.481,2022,0,Infielders,45077930,2022MinnesotaTwins
+Minnesota Twins,0.481,2022,0,Outfielders,1672040,2022MinnesotaTwins
+Minnesota Twins,0.481,2022,0,DH,0,2022MinnesotaTwins
+Minnesota Twins,0.481,2022,0,Pitchers,13845166,2022MinnesotaTwins
+Minnesota Twins,0.481,2022,0,TotalPayroll,149030158,2022MinnesotaTwins
+Colorado Rockies,0.42,2022,0,Catchers,3542286,2022ColoradoRockies
+Colorado Rockies,0.42,2022,0,Infielders,20884733,2022ColoradoRockies
+Colorado Rockies,0.42,2022,0,Outfielders,11038333,2022ColoradoRockies
+Colorado Rockies,0.42,2022,0,DH,0,2022ColoradoRockies
+Colorado Rockies,0.42,2022,0,Pitchers,31494677,2022ColoradoRockies
+Colorado Rockies,0.42,2022,0,TotalPayroll,140012218,2022ColoradoRockies
+Detroit Tigers,0.407,2022,0,Catchers,8460400,2022DetroitTigers
+Detroit Tigers,0.407,2022,0,Infielders,35671110,2022DetroitTigers
+Detroit Tigers,0.407,2022,0,Outfielders,2294770,2022DetroitTigers
+Detroit Tigers,0.407,2022,0,DH,32000000,2022DetroitTigers
+Detroit Tigers,0.407,2022,0,Pitchers,27336580,2022DetroitTigers
+Detroit Tigers,0.407,2022,0,TotalPayroll,136287588,2022DetroitTigers
+Milwaukee Brewers,0.531,2022,0,Catchers,7000000,2022MilwaukeeBrewers
+Milwaukee Brewers,0.531,2022,0,Infielders,20706302,2022MilwaukeeBrewers
+Milwaukee Brewers,0.531,2022,0,Outfielders,30511094,2022MilwaukeeBrewers
+Milwaukee Brewers,0.531,2022,0,DH,8500000,2022MilwaukeeBrewers
+Milwaukee Brewers,0.531,2022,0,Pitchers,27025693,2022MilwaukeeBrewers
+Milwaukee Brewers,0.531,2022,0,TotalPayroll,130769325,2022MilwaukeeBrewers
+Washington Nationals,0.34,2022,0,Catchers,935505,2022WashingtonNationals
+Washington Nationals,0.34,2022,0,Infielders,6126886,2022WashingtonNationals
+Washington Nationals,0.34,2022,0,Outfielders,2797182,2022WashingtonNationals
+Washington Nationals,0.34,2022,0,DH,13916480,2022WashingtonNationals
+Washington Nationals,0.34,2022,0,Pitchers,35212456,2022WashingtonNationals
+Washington Nationals,0.34,2022,0,TotalPayroll,126809535,2022WashingtonNationals
+Seattle Mariners,0.556,2022,2,Catchers,2797878,2022SeattleMariners
+Seattle Mariners,0.556,2022,2,Infielders,30183281,2022SeattleMariners
+Seattle Mariners,0.556,2022,2,Outfielders,11049366,2022SeattleMariners
+Seattle Mariners,0.556,2022,2,DH,0,2022SeattleMariners
+Seattle Mariners,0.556,2022,2,Pitchers,42815383,2022SeattleMariners
+Seattle Mariners,0.556,2022,2,TotalPayroll,115838907,2022SeattleMariners
+Cincinnati Reds,0.383,2022,0,Catchers,415368,2022CincinnatiReds
+Cincinnati Reds,0.383,2022,0,Infielders,10078264,2022CincinnatiReds
+Cincinnati Reds,0.383,2022,0,Outfielders,1650084,2022CincinnatiReds
+Cincinnati Reds,0.383,2022,0,DH,0,2022CincinnatiReds
+Cincinnati Reds,0.383,2022,0,Pitchers,10402296,2022CincinnatiReds
+Cincinnati Reds,0.383,2022,0,TotalPayroll,115467321,2022CincinnatiReds
+Tampa Bay Rays,0.531,2022,1,Catchers,2043438,2022TampaBayRays
+Tampa Bay Rays,0.531,2022,1,Infielders,9177735,2022TampaBayRays
+Tampa Bay Rays,0.531,2022,1,Outfielders,10391075,2022TampaBayRays
+Tampa Bay Rays,0.531,2022,1,DH,0,2022TampaBayRays
+Tampa Bay Rays,0.531,2022,1,Pitchers,29256768,2022TampaBayRays
+Tampa Bay Rays,0.531,2022,1,TotalPayroll,98342073,2022TampaBayRays
+Kansas City Royals,0.401,2022,0,Catchers,18476904,2022KansasCityRoyals
+Kansas City Royals,0.401,2022,0,Infielders,9942282,2022KansasCityRoyals
+Kansas City Royals,0.401,2022,0,Outfielders,6218984,2022KansasCityRoyals
+Kansas City Royals,0.401,2022,0,DH,603822,2022KansasCityRoyals
+Kansas City Royals,0.401,2022,0,Pitchers,27486836,2022KansasCityRoyals
+Kansas City Royals,0.401,2022,0,TotalPayroll,92613711,2022KansasCityRoyals
+Arizona Diamondbacks,0.457,2022,0,Catchers,3325000,2022ArizonaDiamondbacks
+Arizona Diamondbacks,0.457,2022,0,Infielders,4588526,2022ArizonaDiamondbacks
+Arizona Diamondbacks,0.457,2022,0,Outfielders,3589743,2022ArizonaDiamondbacks
+Arizona Diamondbacks,0.457,2022,0,DH,523056,2022ArizonaDiamondbacks
+Arizona Diamondbacks,0.457,2022,0,Pitchers,41150478,2022ArizonaDiamondbacks
+Arizona Diamondbacks,0.457,2022,0,TotalPayroll,85964090,2022ArizonaDiamondbacks
+Miami Marlins,0.426,2022,0,Catchers,2953826,2022MiamiMarlins
+Miami Marlins,0.426,2022,0,Infielders,16363436,2022MiamiMarlins
+Miami Marlins,0.426,2022,0,Outfielders,13596330,2022MiamiMarlins
+Miami Marlins,0.426,2022,0,DH,0,2022MiamiMarlins
+Miami Marlins,0.426,2022,0,Pitchers,16428388,2022MiamiMarlins
+Miami Marlins,0.426,2022,0,TotalPayroll,82954422,2022MiamiMarlins
+Cleveland Guardians,0.568,2022,2,Catchers,4915384,2022ClevelandGuardians
+Cleveland Guardians,0.568,2022,2,Infielders,29623082,2022ClevelandGuardians
+Cleveland Guardians,0.568,2022,2,Outfielders,3161506,2022ClevelandGuardians
+Cleveland Guardians,0.568,2022,2,DH,0,2022ClevelandGuardians
+Cleveland Guardians,0.568,2022,2,Pitchers,18807906,2022ClevelandGuardians
+Cleveland Guardians,0.568,2022,2,TotalPayroll,66477492,2022ClevelandGuardians
+Pittsburgh Pirates,0.383,2022,0,Catchers,903810,2022PittsburghPirates
+Pittsburgh Pirates,0.383,2022,0,Infielders,13655980,2022PittsburghPirates
+Pittsburgh Pirates,0.383,2022,0,Outfielders,9357660,2022PittsburghPirates
+Pittsburgh Pirates,0.383,2022,0,DH,0,2022PittsburghPirates
+Pittsburgh Pirates,0.383,2022,0,Pitchers,6555053,2022PittsburghPirates
+Pittsburgh Pirates,0.383,2022,0,TotalPayroll,56184032,2022PittsburghPirates
+Oakland Athletics,0.37,2022,0,Catchers,1867300,2022OaklandAthletics
+Oakland Athletics,0.37,2022,0,Infielders,3553854,2022OaklandAthletics
+Oakland Athletics,0.37,2022,0,Outfielders,3967513,2022OaklandAthletics
+Oakland Athletics,0.37,2022,0,DH,0,2022OaklandAthletics
+Oakland Athletics,0.37,2022,0,Pitchers,5645656,2022OaklandAthletics
+Oakland Athletics,0.37,2022,0,TotalPayroll,48443900,2022OaklandAthletics
+Baltimore Orioles,0.512,2022,0,Catchers,1636902,2022BaltimoreOrioles
+Baltimore Orioles,0.512,2022,0,Infielders,3124306,2022BaltimoreOrioles
+Baltimore Orioles,0.512,2022,0,Outfielders,5937098,2022BaltimoreOrioles
+Baltimore Orioles,0.512,2022,0,DH,0,2022BaltimoreOrioles
+Baltimore Orioles,0.512,2022,0,Pitchers,11839840,2022BaltimoreOrioles
+Baltimore Orioles,0.512,2022,0,TotalPayroll,44888388,2022BaltimoreOrioles
+Los Angeles Dodgers,0.654,2021,3,Catchers,2240500,2021LosAngelesDodgers
+Los Angeles Dodgers,0.654,2021,3,Infielders,48175134,2021LosAngelesDodgers
+Los Angeles Dodgers,0.654,2021,3,Outfielders,56600000,2021LosAngelesDodgers
+Los Angeles Dodgers,0.654,2021,3,DH,426313,2021LosAngelesDodgers
+Los Angeles Dodgers,0.654,2021,3,Pitchers,67219595,2021LosAngelesDodgers
+Los Angeles Dodgers,0.654,2021,3,TotalPayroll,266020809,2021LosAngelesDodgers
+New York Yankees,0.568,2021,1,Catchers,7253767,2021NewYorkYankees
+New York Yankees,0.568,2021,1,Infielders,9298409,2021NewYorkYankees
+New York Yankees,0.568,2021,1,Outfielders,13086340,2021NewYorkYankees
+New York Yankees,0.568,2021,1,DH,29000000,2021NewYorkYankees
+New York Yankees,0.568,2021,1,Pitchers,82880237,2021NewYorkYankees
+New York Yankees,0.568,2021,1,TotalPayroll,205669863,2021NewYorkYankees
+New York Mets,0.475,2021,0,Catchers,8364690,2021NewYorkMets
+New York Mets,0.475,2021,0,Infielders,24909097,2021NewYorkMets
+New York Mets,0.475,2021,0,Outfielders,26650000,2021NewYorkMets
+New York Mets,0.475,2021,0,DH,0,2021NewYorkMets
+New York Mets,0.475,2021,0,Pitchers,116641967,2021NewYorkMets
+New York Mets,0.475,2021,0,TotalPayroll,201189189,2021NewYorkMets
+Philadelphia Phillies,0.506,2021,0,Catchers,1100000,2021PhiladelphiaPhillies
+Philadelphia Phillies,0.506,2021,0,Infielders,32884784,2021PhiladelphiaPhillies
+Philadelphia Phillies,0.506,2021,0,Outfielders,58950651,2021PhiladelphiaPhillies
+Philadelphia Phillies,0.506,2021,0,DH,0,2021PhiladelphiaPhillies
+Philadelphia Phillies,0.506,2021,0,Pitchers,54828611,2021PhiladelphiaPhillies
+Philadelphia Phillies,0.506,2021,0,TotalPayroll,197263223,2021PhiladelphiaPhillies
+Houston Astros,0.586,2021,4,Catchers,7000000,2021HoustonAstros
+Houston Astros,0.586,2021,4,Infielders,65285876,2021HoustonAstros
+Houston Astros,0.586,2021,4,Outfielders,17483098,2021HoustonAstros
+Houston Astros,0.586,2021,4,DH,609000,2021HoustonAstros
+Houston Astros,0.586,2021,4,Pitchers,56499752,2021HoustonAstros
+Houston Astros,0.586,2021,4,TotalPayroll,194222042,2021HoustonAstros
+Boston Red Sox,0.568,2021,3,Catchers,7850000,2021BostonRedSox
+Boston Red Sox,0.568,2021,3,Infielders,30709494,2021BostonRedSox
+Boston Red Sox,0.568,2021,3,Outfielders,6808959,2021BostonRedSox
+Boston Red Sox,0.568,2021,3,DH,19350000,2021BostonRedSox
+Boston Red Sox,0.568,2021,3,Pitchers,76734278,2021BostonRedSox
+Boston Red Sox,0.568,2021,3,TotalPayroll,187100784,2021BostonRedSox
+Los Angeles Angels,0.475,2021,0,Catchers,3100000,2021LosAngelesAngels
+Los Angeles Angels,0.475,2021,0,Infielders,4087196,2021LosAngelesAngels
+Los Angeles Angels,0.475,2021,0,Outfielders,1452479,2021LosAngelesAngels
+Los Angeles Angels,0.475,2021,0,DH,0,2021LosAngelesAngels
+Los Angeles Angels,0.475,2021,0,Pitchers,21827411,2021LosAngelesAngels
+Los Angeles Angels,0.475,2021,0,TotalPayroll,180349558,2021LosAngelesAngels
+San Diego Padres,0.488,2021,0,Catchers,1499355,2021SanDiegoPadres
+San Diego Padres,0.488,2021,0,Infielders,62513875,2021SanDiegoPadres
+San Diego Padres,0.488,2021,0,Outfielders,36671973,2021SanDiegoPadres
+San Diego Padres,0.488,2021,0,DH,0,2021SanDiegoPadres
+San Diego Padres,0.488,2021,0,Pitchers,25292381,2021SanDiegoPadres
+San Diego Padres,0.488,2021,0,TotalPayroll,179764272,2021SanDiegoPadres
+San Francisco Giants,0.66,2021,2,Catchers,24202777,2021SanFranciscoGiants
+San Francisco Giants,0.66,2021,2,Infielders,48039535,2021SanFranciscoGiants
+San Francisco Giants,0.66,2021,2,Outfielders,4668889,2021SanFranciscoGiants
+San Francisco Giants,0.66,2021,2,DH,0,2021SanFranciscoGiants
+San Francisco Giants,0.66,2021,2,Pitchers,57475595,2021SanFranciscoGiants
+San Francisco Giants,0.66,2021,2,TotalPayroll,171890308,2021SanFranciscoGiants
+Atlanta Braves,0.547,2021,5,Catchers,8285231,2021AtlantaBraves
+Atlanta Braves,0.547,2021,5,Infielders,33790206,2021AtlantaBraves
+Atlanta Braves,0.547,2021,5,Outfielders,11430180,2021AtlantaBraves
+Atlanta Braves,0.547,2021,5,DH,2813172,2021AtlantaBraves
+Atlanta Braves,0.547,2021,5,Pitchers,59035831,2021AtlantaBraves
+Atlanta Braves,0.547,2021,5,TotalPayroll,152750691,2021AtlantaBraves
+St. Louis Cardinals,0.556,2021,1,Catchers,9579200,2021St.LouisCardinals
+St. Louis Cardinals,0.556,2021,1,Infielders,50798575,2021St.LouisCardinals
+St. Louis Cardinals,0.556,2021,1,Outfielders,3435562,2021St.LouisCardinals
+St. Louis Cardinals,0.556,2021,1,DH,0,2021St.LouisCardinals
+St. Louis Cardinals,0.556,2021,1,Pitchers,52205223,2021St.LouisCardinals
+St. Louis Cardinals,0.556,2021,1,TotalPayroll,151469994,2021St.LouisCardinals
+Toronto Blue Jays,0.562,2021,0,Catchers,1629106,2021TorontoBlueJays
+Toronto Blue Jays,0.562,2021,0,Infielders,20539414,2021TorontoBlueJays
+Toronto Blue Jays,0.562,2021,0,Outfielders,40476975,2021TorontoBlueJays
+Toronto Blue Jays,0.562,2021,0,DH,4325000,2021TorontoBlueJays
+Toronto Blue Jays,0.562,2021,0,Pitchers,41432254,2021TorontoBlueJays
+Toronto Blue Jays,0.562,2021,0,TotalPayroll,150140253,2021TorontoBlueJays
+Chicago Cubs,0.438,2021,0,Catchers,12268,2021ChicagoCubs
+Chicago Cubs,0.438,2021,0,Infielders,1576596,2021ChicagoCubs
+Chicago Cubs,0.438,2021,0,Outfielders,5191890,2021ChicagoCubs
+Chicago Cubs,0.438,2021,0,DH,0,2021ChicagoCubs
+Chicago Cubs,0.438,2021,0,Pitchers,27130135,2021ChicagoCubs
+Chicago Cubs,0.438,2021,0,TotalPayroll,144607670,2021ChicagoCubs
+Washington Nationals,0.401,2021,0,Catchers,1877241,2021WashingtonNationals
+Washington Nationals,0.401,2021,0,Infielders,8859122,2021WashingtonNationals
+Washington Nationals,0.401,2021,0,Outfielders,10436455,2021WashingtonNationals
+Washington Nationals,0.401,2021,0,DH,0,2021WashingtonNationals
+Washington Nationals,0.401,2021,0,Pitchers,28903327,2021WashingtonNationals
+Washington Nationals,0.401,2021,0,TotalPayroll,144415187,2021WashingtonNationals
+Chicago White Sox,0.574,2021,2,Catchers,18772379,2021ChicagoWhiteSox
+Chicago White Sox,0.574,2021,2,Infielders,33697088,2021ChicagoWhiteSox
+Chicago White Sox,0.574,2021,2,Outfielders,10195500,2021ChicagoWhiteSox
+Chicago White Sox,0.574,2021,2,DH,4333333,2021ChicagoWhiteSox
+Chicago White Sox,0.574,2021,2,Pitchers,58831069,2021ChicagoWhiteSox
+Chicago White Sox,0.574,2021,2,TotalPayroll,140926169,2021ChicagoWhiteSox
+Cincinnati Reds,0.512,2021,0,Catchers,4758000,2021CincinnatiReds
+Cincinnati Reds,0.512,2021,0,Infielders,37684784,2021CincinnatiReds
+Cincinnati Reds,0.512,2021,0,Outfielders,14572645,2021CincinnatiReds
+Cincinnati Reds,0.512,2021,0,DH,0,2021CincinnatiReds
+Cincinnati Reds,0.512,2021,0,Pitchers,28310008,2021CincinnatiReds
+Cincinnati Reds,0.512,2021,0,TotalPayroll,126587447,2021CincinnatiReds
+Minnesota Twins,0.451,2021,0,Catchers,2851010,2021MinnesotaTwins
+Minnesota Twins,0.451,2021,0,Infielders,47849178,2021MinnesotaTwins
+Minnesota Twins,0.451,2021,0,Outfielders,12523066,2021MinnesotaTwins
+Minnesota Twins,0.451,2021,0,DH,0,2021MinnesotaTwins
+Minnesota Twins,0.451,2021,0,Pitchers,20386241,2021MinnesotaTwins
+Minnesota Twins,0.451,2021,0,TotalPayroll,120084606,2021MinnesotaTwins
+Colorado Rockies,0.46,2021,0,Catchers,1872500,2021ColoradoRockies
+Colorado Rockies,0.46,2021,0,Infielders,23107675,2021ColoradoRockies
+Colorado Rockies,0.46,2021,0,Outfielders,24196173,2021ColoradoRockies
+Colorado Rockies,0.46,2021,0,DH,0,2021ColoradoRockies
+Colorado Rockies,0.46,2021,0,Pitchers,30719074,2021ColoradoRockies
+Colorado Rockies,0.46,2021,0,TotalPayroll,116408966,2021ColoradoRockies
+Milwaukee Brewers,0.586,2021,2,Catchers,4150000,2021MilwaukeeBrewers
+Milwaukee Brewers,0.586,2021,2,Infielders,7851693,2021MilwaukeeBrewers
+Milwaukee Brewers,0.586,2021,2,Outfielders,47722318,2021MilwaukeeBrewers
+Milwaukee Brewers,0.586,2021,2,DH,0,2021MilwaukeeBrewers
+Milwaukee Brewers,0.586,2021,2,Pitchers,20213610,2021MilwaukeeBrewers
+Milwaukee Brewers,0.586,2021,2,TotalPayroll,99377415,2021MilwaukeeBrewers
+Texas Rangers,0.37,2021,0,Catchers,1158000,2021TexasRangers
+Texas Rangers,0.37,2021,0,Infielders,6871851,2021TexasRangers
+Texas Rangers,0.37,2021,0,Outfielders,1007336,2021TexasRangers
+Texas Rangers,0.37,2021,0,DH,593000,2021TexasRangers
+Texas Rangers,0.37,2021,0,Pitchers,15212845,2021TexasRangers
+Texas Rangers,0.37,2021,0,TotalPayroll,95788819,2021TexasRangers
+Arizona Diamondbacks,0.321,2021,0,Catchers,1700000,2021ArizonaDiamondbacks
+Arizona Diamondbacks,0.321,2021,0,Infielders,1835361,2021ArizonaDiamondbacks
+Arizona Diamondbacks,0.321,2021,0,Outfielders,23087732,2021ArizonaDiamondbacks
+Arizona Diamondbacks,0.321,2021,0,DH,0,2021ArizonaDiamondbacks
+Arizona Diamondbacks,0.321,2021,0,Pitchers,27606785,2021ArizonaDiamondbacks
+Arizona Diamondbacks,0.321,2021,0,TotalPayroll,91632929,2021ArizonaDiamondbacks
+Kansas City Royals,0.457,2021,0,Catchers,14978819,2021KansasCityRoyals
+Kansas City Royals,0.457,2021,0,Infielders,14948813,2021KansasCityRoyals
+Kansas City Royals,0.457,2021,0,Outfielders,13381881,2021KansasCityRoyals
+Kansas City Royals,0.457,2021,0,DH,0,2021KansasCityRoyals
+Kansas City Royals,0.457,2021,0,Pitchers,9205419,2021KansasCityRoyals
+Kansas City Royals,0.457,2021,0,TotalPayroll,91595545,2021KansasCityRoyals
+Oakland Athletics,0.531,2021,0,Catchers,2672270,2021OaklandAthletics
+Oakland Athletics,0.531,2021,0,Infielders,15710366,2021OaklandAthletics
+Oakland Athletics,0.531,2021,0,Outfielders,7415720,2021OaklandAthletics
+Oakland Athletics,0.531,2021,0,DH,98144,2021OaklandAthletics
+Oakland Athletics,0.531,2021,0,Pitchers,25313710,2021OaklandAthletics
+Oakland Athletics,0.531,2021,0,TotalPayroll,90400598,2021OaklandAthletics
+Detroit Tigers,0.475,2021,0,Catchers,582730,2021DetroitTigers
+Detroit Tigers,0.475,2021,0,Infielders,11048483,2021DetroitTigers
+Detroit Tigers,0.475,2021,0,Outfielders,6361865,2021DetroitTigers
+Detroit Tigers,0.475,2021,0,DH,30000000,2021DetroitTigers
+Detroit Tigers,0.475,2021,0,Pitchers,13415075,2021DetroitTigers
+Detroit Tigers,0.475,2021,0,TotalPayroll,86348945,2021DetroitTigers
+Seattle Mariners,0.556,2021,0,Catchers,1635270,2021SeattleMariners
+Seattle Mariners,0.556,2021,0,Infielders,21854894,2021SeattleMariners
+Seattle Mariners,0.556,2021,0,Outfielders,3901068,2021SeattleMariners
+Seattle Mariners,0.556,2021,0,DH,587500,2021SeattleMariners
+Seattle Mariners,0.556,2021,0,Pitchers,29031542,2021SeattleMariners
+Seattle Mariners,0.556,2021,0,TotalPayroll,83822113,2021SeattleMariners
+Tampa Bay Rays,0.617,2021,2,Catchers,2586300,2021TampaBayRays
+Tampa Bay Rays,0.617,2021,2,Infielders,8104801,2021TampaBayRays
+Tampa Bay Rays,0.617,2021,2,Outfielders,16232266,2021TampaBayRays
+Tampa Bay Rays,0.617,2021,2,DH,5693516,2021TampaBayRays
+Tampa Bay Rays,0.617,2021,2,Pitchers,11671768,2021TampaBayRays
+Tampa Bay Rays,0.617,2021,2,TotalPayroll,70836327,2021TampaBayRays
+Miami Marlins,0.414,2021,0,Catchers,1409809,2021MiamiMarlins
+Miami Marlins,0.414,2021,0,Infielders,5872316,2021MiamiMarlins
+Miami Marlins,0.414,2021,0,Outfielders,1212438,2021MiamiMarlins
+Miami Marlins,0.414,2021,0,DH,0,2021MiamiMarlins
+Miami Marlins,0.414,2021,0,Pitchers,7809660,2021MiamiMarlins
+Miami Marlins,0.414,2021,0,TotalPayroll,58157900,2021MiamiMarlins
+Pittsburgh Pirates,0.377,2021,0,Catchers,1891500,2021PittsburghPirates
+Pittsburgh Pirates,0.377,2021,0,Infielders,6022778,2021PittsburghPirates
+Pittsburgh Pirates,0.377,2021,0,Outfielders,2166701,2021PittsburghPirates
+Pittsburgh Pirates,0.377,2021,0,DH,0,2021PittsburghPirates
+Pittsburgh Pirates,0.377,2021,0,Pitchers,7716862,2021PittsburghPirates
+Pittsburgh Pirates,0.377,2021,0,TotalPayroll,54356609,2021PittsburghPirates
+Cleveland Guardians,0.494,2021,0,Catchers,8780000,2021ClevelandGuardians
+Cleveland Guardians,0.494,2021,0,Infielders,12972775,2021ClevelandGuardians
+Cleveland Guardians,0.494,2021,0,Outfielders,1386706,2021ClevelandGuardians
+Cleveland Guardians,0.494,2021,0,DH,602400,2021ClevelandGuardians
+Cleveland Guardians,0.494,2021,0,Pitchers,11940430,2021ClevelandGuardians
+Cleveland Guardians,0.494,2021,0,TotalPayroll,50670534,2021ClevelandGuardians
+Baltimore Orioles,0.321,2021,0,Catchers,2235978,2021BaltimoreOrioles
+Baltimore Orioles,0.321,2021,0,Infielders,1822319,2021BaltimoreOrioles
+Baltimore Orioles,0.321,2021,0,Outfielders,1541942,2021BaltimoreOrioles
+Baltimore Orioles,0.321,2021,0,DH,4750000,2021BaltimoreOrioles
+Baltimore Orioles,0.321,2021,0,Pitchers,3488451,2021BaltimoreOrioles
+Baltimore Orioles,0.321,2021,0,TotalPayroll,42421870,2021BaltimoreOrioles
+Los Angeles Dodgers,0.717,2020,5,Catchers,619814,2020LosAngelesDodgers
+Los Angeles Dodgers,0.717,2020,5,Infielders,15102925,2020LosAngelesDodgers
+Los Angeles Dodgers,0.717,2020,5,Outfielders,43759258,2020LosAngelesDodgers
+Los Angeles Dodgers,0.717,2020,5,DH,0,2020LosAngelesDodgers
+Los Angeles Dodgers,0.717,2020,5,Pitchers,34683964,2020LosAngelesDodgers
+Los Angeles Dodgers,0.717,2020,5,TotalPayroll,124917397,2020LosAngelesDodgers
+New York Yankees,0.55,2020,2,Catchers,2348295,2020NewYorkYankees
+New York Yankees,0.55,2020,2,Infielders,6062000,2020NewYorkYankees
+New York Yankees,0.55,2020,2,Outfielders,12674885,2020NewYorkYankees
+New York Yankees,0.55,2020,2,DH,9629630,2020NewYorkYankees
+New York Yankees,0.55,2020,2,Pitchers,46500884,2020NewYorkYankees
+New York Yankees,0.55,2020,2,TotalPayroll,111939081,2020NewYorkYankees
+Chicago Cubs,0.567,2020,1,Catchers,1885926,2020ChicagoCubs
+Chicago Cubs,0.567,2020,1,Infielders,17636185,2020ChicagoCubs
+Chicago Cubs,0.567,2020,1,Outfielders,10947919,2020ChicagoCubs
+Chicago Cubs,0.567,2020,1,DH,0,2020ChicagoCubs
+Chicago Cubs,0.567,2020,1,Pitchers,35646474,2020ChicagoCubs
+Chicago Cubs,0.567,2020,1,TotalPayroll,86596171,2020ChicagoCubs
+Boston Red Sox,0.4,2020,0,Catchers,1988889,2020BostonRedSox
+Boston Red Sox,0.4,2020,0,Infielders,8532441,2020BostonRedSox
+Boston Red Sox,0.4,2020,0,Outfielders,5584146,2020BostonRedSox
+Boston Red Sox,0.4,2020,0,DH,8796296,2020BostonRedSox
+Boston Red Sox,0.4,2020,0,Pitchers,11169275,2020BostonRedSox
+Boston Red Sox,0.4,2020,0,TotalPayroll,84210390,2020BostonRedSox
+Houston Astros,0.483,2020,3,Catchers,1546337,2020HoustonAstros
+Houston Astros,0.483,2020,3,Infielders,26237596,2020HoustonAstros
+Houston Astros,0.483,2020,3,Outfielders,19570372,2020HoustonAstros
+Houston Astros,0.483,2020,3,DH,0,2020HoustonAstros
+Houston Astros,0.483,2020,3,Pitchers,14050003,2020HoustonAstros
+Houston Astros,0.483,2020,3,TotalPayroll,82890957,2020HoustonAstros
+New York Mets,0.433,2020,0,Catchers,5315920,2020NewYorkMets
+New York Mets,0.433,2020,0,Infielders,9142910,2020NewYorkMets
+New York Mets,0.433,2020,0,Outfielders,1095473,2020NewYorkMets
+New York Mets,0.433,2020,0,DH,0,2020NewYorkMets
+New York Mets,0.433,2020,0,Pitchers,30806103,2020NewYorkMets
+New York Mets,0.433,2020,0,TotalPayroll,81945598,2020NewYorkMets
+Washington Nationals,0.433,2020,0,Catchers,3703703,2020WashingtonNationals
+Washington Nationals,0.433,2020,0,Infielders,5606789,2020WashingtonNationals
+Washington Nationals,0.433,2020,0,Outfielders,1805633,2020WashingtonNationals
+Washington Nationals,0.433,2020,0,DH,0,2020WashingtonNationals
+Washington Nationals,0.433,2020,0,Pitchers,34548738,2020WashingtonNationals
+Washington Nationals,0.433,2020,0,TotalPayroll,75067703,2020WashingtonNationals
+Philadelphia Phillies,0.467,2020,0,Catchers,4013392,2020PhiladelphiaPhillies
+Philadelphia Phillies,0.467,2020,0,Infielders,12224772,2020PhiladelphiaPhillies
+Philadelphia Phillies,0.467,2020,0,Outfielders,19534203,2020PhiladelphiaPhillies
+Philadelphia Phillies,0.467,2020,0,DH,0,2020PhiladelphiaPhillies
+Philadelphia Phillies,0.467,2020,0,Pitchers,21333034,2020PhiladelphiaPhillies
+Philadelphia Phillies,0.467,2020,0,TotalPayroll,73543547,2020PhiladelphiaPhillies
+San Francisco Giants,0.483,2020,0,Catchers,227395,2020SanFranciscoGiants
+San Francisco Giants,0.483,2020,0,Infielders,20940529,2020SanFranciscoGiants
+San Francisco Giants,0.483,2020,0,Outfielders,854165,2020SanFranciscoGiants
+San Francisco Giants,0.483,2020,0,DH,0,2020SanFranciscoGiants
+San Francisco Giants,0.483,2020,0,Pitchers,18540125,2020SanFranciscoGiants
+San Francisco Giants,0.483,2020,0,TotalPayroll,73408817,2020SanFranciscoGiants
+St. Louis Cardinals,0.517,2020,1,Catchers,8148148,2020St.LouisCardinals
+St. Louis Cardinals,0.517,2020,1,Infielders,24468889,2020St.LouisCardinals
+St. Louis Cardinals,0.517,2020,1,Outfielders,8365656,2020St.LouisCardinals
+St. Louis Cardinals,0.517,2020,1,DH,0,2020St.LouisCardinals
+St. Louis Cardinals,0.517,2020,1,Pitchers,10775167,2020St.LouisCardinals
+St. Louis Cardinals,0.517,2020,1,TotalPayroll,73246343,2020St.LouisCardinals
+San Diego Padres,0.617,2020,2,Catchers,1189609,2020SanDiegoPadres
+San Diego Padres,0.617,2020,2,Infielders,25222558,2020SanDiegoPadres
+San Diego Padres,0.617,2020,2,Outfielders,13043259,2020SanDiegoPadres
+San Diego Padres,0.617,2020,2,DH,0,2020SanDiegoPadres
+San Diego Padres,0.617,2020,2,Pitchers,14838532,2020SanDiegoPadres
+San Diego Padres,0.617,2020,2,TotalPayroll,73097954,2020SanDiegoPadres
+Colorado Rockies,0.433,2020,0,Catchers,1287037,2020ColoradoRockies
+Colorado Rockies,0.433,2020,0,Infielders,7517693,2020ColoradoRockies
+Colorado Rockies,0.433,2020,0,Outfielders,9548658,2020ColoradoRockies
+Colorado Rockies,0.433,2020,0,DH,0,2020ColoradoRockies
+Colorado Rockies,0.433,2020,0,Pitchers,5586940,2020ColoradoRockies
+Colorado Rockies,0.433,2020,0,TotalPayroll,67808533,2020ColoradoRockies
+Los Angeles Angels,0.433,2020,0,Catchers,433356,2020LosAngelesAngels
+Los Angeles Angels,0.433,2020,0,Infielders,21288795,2020LosAngelesAngels
+Los Angeles Angels,0.433,2020,0,Outfielders,22967793,2020LosAngelesAngels
+Los Angeles Angels,0.433,2020,0,DH,259259,2020LosAngelesAngels
+Los Angeles Angels,0.433,2020,0,Pitchers,11872103,2020LosAngelesAngels
+Los Angeles Angels,0.433,2020,0,TotalPayroll,67040893,2020LosAngelesAngels
+Arizona Diamondbacks,0.417,2020,0,Catchers,1325154,2020ArizonaDiamondbacks
+Arizona Diamondbacks,0.417,2020,0,Infielders,7240612,2020ArizonaDiamondbacks
+Arizona Diamondbacks,0.417,2020,0,Outfielders,5633112,2020ArizonaDiamondbacks
+Arizona Diamondbacks,0.417,2020,0,DH,0,2020ArizonaDiamondbacks
+Arizona Diamondbacks,0.417,2020,0,Pitchers,6084819,2020ArizonaDiamondbacks
+Arizona Diamondbacks,0.417,2020,0,TotalPayroll,65598752,2020ArizonaDiamondbacks
+Texas Rangers,0.367,2020,0,Catchers,1167181,2020TexasRangers
+Texas Rangers,0.367,2020,0,Infielders,4578681,2020TexasRangers
+Texas Rangers,0.367,2020,0,Outfielders,1971049,2020TexasRangers
+Texas Rangers,0.367,2020,0,DH,7777778,2020TexasRangers
+Texas Rangers,0.367,2020,0,Pitchers,15383236,2020TexasRangers
+Texas Rangers,0.367,2020,0,TotalPayroll,64214137,2020TexasRangers
+Atlanta Braves,0.583,2020,3,Catchers,4444444,2020AtlantaBraves
+Atlanta Braves,0.583,2020,3,Infielders,10628601,2020AtlantaBraves
+Atlanta Braves,0.583,2020,3,Outfielders,12314815,2020AtlantaBraves
+Atlanta Braves,0.583,2020,3,DH,0,2020AtlantaBraves
+Atlanta Braves,0.583,2020,3,Pitchers,23070432,2020AtlantaBraves
+Atlanta Braves,0.583,2020,3,TotalPayroll,63561931,2020AtlantaBraves
+Minnesota Twins,0.6,2020,1,Catchers,1925189,2020MinnesotaTwins
+Minnesota Twins,0.6,2020,1,Infielders,13390494,2020MinnesotaTwins
+Minnesota Twins,0.6,2020,1,Outfielders,6541667,2020MinnesotaTwins
+Minnesota Twins,0.6,2020,1,DH,4444444,2020MinnesotaTwins
+Minnesota Twins,0.6,2020,1,Pitchers,18755764,2020MinnesotaTwins
+Minnesota Twins,0.6,2020,1,TotalPayroll,55679689,2020MinnesotaTwins
+Cincinnati Reds,0.517,2020,1,Catchers,2486944,2020CincinnatiReds
+Cincinnati Reds,0.517,2020,1,Infielders,18830158,2020CincinnatiReds
+Cincinnati Reds,0.517,2020,1,Outfielders,8837342,2020CincinnatiReds
+Cincinnati Reds,0.517,2020,1,DH,0,2020CincinnatiReds
+Cincinnati Reds,0.517,2020,1,Pitchers,21699882,2020CincinnatiReds
+Cincinnati Reds,0.517,2020,1,TotalPayroll,55535890,2020CincinnatiReds
+Toronto Blue Jays,0.533,2020,1,Catchers,264988,2020TorontoBlueJays
+Toronto Blue Jays,0.533,2020,1,Infielders,3334260,2020TorontoBlueJays
+Toronto Blue Jays,0.533,2020,1,Outfielders,8134198,2020TorontoBlueJays
+Toronto Blue Jays,0.533,2020,1,DH,223037,2020TorontoBlueJays
+Toronto Blue Jays,0.533,2020,1,Pitchers,21510569,2020TorontoBlueJays
+Toronto Blue Jays,0.533,2020,1,TotalPayroll,54997060,2020TorontoBlueJays
+Chicago White Sox,0.583,2020,1,Catchers,8759259,2020ChicagoWhiteSox
+Chicago White Sox,0.583,2020,1,Infielders,8665374,2020ChicagoWhiteSox
+Chicago White Sox,0.583,2020,1,Outfielders,3175329,2020ChicagoWhiteSox
+Chicago White Sox,0.583,2020,1,DH,6462963,2020ChicagoWhiteSox
+Chicago White Sox,0.583,2020,1,Pitchers,15971404,2020ChicagoWhiteSox
+Chicago White Sox,0.583,2020,1,TotalPayroll,53665251,2020ChicagoWhiteSox
+Seattle Mariners,0.45,2020,0,Catchers,236740,2020SeattleMariners
+Seattle Mariners,0.45,2020,0,Infielders,13944545,2020SeattleMariners
+Seattle Mariners,0.45,2020,0,Outfielders,338239,2020SeattleMariners
+Seattle Mariners,0.45,2020,0,DH,0,2020SeattleMariners
+Seattle Mariners,0.45,2020,0,Pitchers,10345612,2020SeattleMariners
+Seattle Mariners,0.45,2020,0,TotalPayroll,50433829,2020SeattleMariners
+Detroit Tigers,0.397,2020,0,Catchers,1577662,2020DetroitTigers
+Detroit Tigers,0.397,2020,0,Infielders,891971,2020DetroitTigers
+Detroit Tigers,0.397,2020,0,Outfielders,477331,2020DetroitTigers
+Detroit Tigers,0.397,2020,0,DH,11111111,2020DetroitTigers
+Detroit Tigers,0.397,2020,0,Pitchers,15578619,2020DetroitTigers
+Detroit Tigers,0.397,2020,0,TotalPayroll,43164880,2020DetroitTigers
+Milwaukee Brewers,0.483,2020,1,Catchers,1124514,2020MilwaukeeBrewers
+Milwaukee Brewers,0.483,2020,1,Infielders,9763737,2020MilwaukeeBrewers
+Milwaukee Brewers,0.483,2020,1,Outfielders,7553473,2020MilwaukeeBrewers
+Milwaukee Brewers,0.483,2020,1,DH,80275,2020MilwaukeeBrewers
+Milwaukee Brewers,0.483,2020,1,Pitchers,9942820,2020MilwaukeeBrewers
+Milwaukee Brewers,0.483,2020,1,TotalPayroll,41434086,2020MilwaukeeBrewers
+Cleveland Guardians,0.583,2020,1,Catchers,2718982,2020ClevelandGuardians
+Cleveland Guardians,0.583,2020,1,Infielders,20238412,2020ClevelandGuardians
+Cleveland Guardians,0.583,2020,1,Outfielders,1612269,2020ClevelandGuardians
+Cleveland Guardians,0.583,2020,1,DH,217185,2020ClevelandGuardians
+Cleveland Guardians,0.583,2020,1,Pitchers,9684222,2020ClevelandGuardians
+Cleveland Guardians,0.583,2020,1,TotalPayroll,39299107,2020ClevelandGuardians
+Oakland Athletics,0.6,2020,2,Catchers,317729,2020OaklandAthletics
+Oakland Athletics,0.6,2020,2,Infielders,6115449,2020OaklandAthletics
+Oakland Athletics,0.6,2020,2,Outfielders,7043890,2020OaklandAthletics
+Oakland Athletics,0.6,2020,2,DH,6203704,2020OaklandAthletics
+Oakland Athletics,0.6,2020,2,Pitchers,15603103,2020OaklandAthletics
+Oakland Athletics,0.6,2020,2,TotalPayroll,36720178,2020OaklandAthletics
+Kansas City Royals,0.433,2020,0,Catchers,6229815,2020KansasCityRoyals
+Kansas City Royals,0.433,2020,0,Infielders,2131741,2020KansasCityRoyals
+Kansas City Royals,0.433,2020,0,Outfielders,4010818,2020KansasCityRoyals
+Kansas City Royals,0.433,2020,0,DH,2703704,2020KansasCityRoyals
+Kansas City Royals,0.433,2020,0,Pitchers,10244070,2020KansasCityRoyals
+Kansas City Royals,0.433,2020,0,TotalPayroll,34812194,2020KansasCityRoyals
+Miami Marlins,0.517,2020,2,Catchers,429074,2020MiamiMarlins
+Miami Marlins,0.517,2020,2,Infielders,6222994,2020MiamiMarlins
+Miami Marlins,0.517,2020,2,Outfielders,5790804,2020MiamiMarlins
+Miami Marlins,0.517,2020,2,DH,0,2020MiamiMarlins
+Miami Marlins,0.517,2020,2,Pitchers,5269801,2020MiamiMarlins
+Miami Marlins,0.517,2020,2,TotalPayroll,34546334,2020MiamiMarlins
+Tampa Bay Rays,0.667,2020,4,Catchers,2025932,2020TampaBayRays
+Tampa Bay Rays,0.667,2020,4,Infielders,1717331,2020TampaBayRays
+Tampa Bay Rays,0.667,2020,4,Outfielders,6314001,2020TampaBayRays
+Tampa Bay Rays,0.667,2020,4,DH,0,2020TampaBayRays
+Tampa Bay Rays,0.667,2020,4,Pitchers,11712199,2020TampaBayRays
+Tampa Bay Rays,0.667,2020,4,TotalPayroll,28290689,2020TampaBayRays
+Pittsburgh Pirates,0.317,2020,0,Catchers,216142,2020PittsburghPirates
+Pittsburgh Pirates,0.317,2020,0,Infielders,3861760,2020PittsburghPirates
+Pittsburgh Pirates,0.317,2020,0,Outfielders,3803101,2020PittsburghPirates
+Pittsburgh Pirates,0.317,2020,0,DH,0,2020PittsburghPirates
+Pittsburgh Pirates,0.317,2020,0,Pitchers,4857839,2020PittsburghPirates
+Pittsburgh Pirates,0.317,2020,0,TotalPayroll,25337837,2020PittsburghPirates
+Baltimore Orioles,0.417,2020,0,Catchers,609170,2020BaltimoreOrioles
+Baltimore Orioles,0.417,2020,0,Infielders,2341271,2020BaltimoreOrioles
+Baltimore Orioles,0.417,2020,0,Outfielders,528817,2020BaltimoreOrioles
+Baltimore Orioles,0.417,2020,0,DH,0,2020BaltimoreOrioles
+Baltimore Orioles,0.417,2020,0,Pitchers,6773020,2020BaltimoreOrioles
+Baltimore Orioles,0.417,2020,0,TotalPayroll,23478635,2020BaltimoreOrioles
+Boston Red Sox,0.519,2019,0,Catchers,5160193,2019BostonRedSox
+Boston Red Sox,0.519,2019,0,Infielders,23685554,2019BostonRedSox
+Boston Red Sox,0.519,2019,0,Outfielders,29523414,2019BostonRedSox
+Boston Red Sox,0.519,2019,0,DH,23750000,2019BostonRedSox
+Boston Red Sox,0.519,2019,0,Pitchers,83737060,2019BostonRedSox
+Boston Red Sox,0.519,2019,0,TotalPayroll,229196106,2019BostonRedSox
+New York Yankees,0.636,2019,3,Catchers,2624126,2019NewYorkYankees
+New York Yankees,0.636,2019,3,Infielders,26249095,2019NewYorkYankees
+New York Yankees,0.636,2019,3,Outfielders,8976740,2019NewYorkYankees
+New York Yankees,0.636,2019,3,DH,34000000,2019NewYorkYankees
+New York Yankees,0.636,2019,3,Pitchers,100085086,2019NewYorkYankees
+New York Yankees,0.636,2019,3,TotalPayroll,223019037,2019NewYorkYankees
+Chicago Cubs,0.519,2019,0,Catchers,1411652,2019ChicagoCubs
+Chicago Cubs,0.519,2019,0,Infielders,38178972,2019ChicagoCubs
+Chicago Cubs,0.519,2019,0,Outfielders,29717818,2019ChicagoCubs
+Chicago Cubs,0.519,2019,0,DH,0,2019ChicagoCubs
+Chicago Cubs,0.519,2019,0,Pitchers,128374774,2019ChicagoCubs
+Chicago Cubs,0.519,2019,0,TotalPayroll,221590085,2019ChicagoCubs
+Los Angeles Dodgers,0.654,2019,2,Catchers,4292990,2019LosAngelesDodgers
+Los Angeles Dodgers,0.654,2019,2,Infielders,35004336,2019LosAngelesDodgers
+Los Angeles Dodgers,0.654,2019,2,Outfielders,13330000,2019LosAngelesDodgers
+Los Angeles Dodgers,0.654,2019,2,DH,0,2019LosAngelesDodgers
+Los Angeles Dodgers,0.654,2019,2,Pitchers,104767296,2019LosAngelesDodgers
+Los Angeles Dodgers,0.654,2019,2,TotalPayroll,207000814,2019LosAngelesDodgers
+San Francisco Giants,0.475,2019,0,Catchers,22774577,2019SanFranciscoGiants
+San Francisco Giants,0.475,2019,0,Infielders,45592288,2019SanFranciscoGiants
+San Francisco Giants,0.475,2019,0,Outfielders,7423024,2019SanFranciscoGiants
+San Francisco Giants,0.475,2019,0,DH,0,2019SanFranciscoGiants
+San Francisco Giants,0.475,2019,0,Pitchers,61229335,2019SanFranciscoGiants
+San Francisco Giants,0.475,2019,0,TotalPayroll,178582126,2019SanFranciscoGiants
+St. Louis Cardinals,0.562,2019,3,Catchers,21804368,2019St.LouisCardinals
+St. Louis Cardinals,0.562,2019,3,Infielders,40676420,2019St.LouisCardinals
+St. Louis Cardinals,0.562,2019,3,Outfielders,18063476,2019St.LouisCardinals
+St. Louis Cardinals,0.562,2019,3,DH,0,2019St.LouisCardinals
+St. Louis Cardinals,0.562,2019,3,Pitchers,54724192,2019St.LouisCardinals
+St. Louis Cardinals,0.562,2019,3,TotalPayroll,173762164,2019St.LouisCardinals
+Washington Nationals,0.574,2019,5,Catchers,11238651,2019WashingtonNationals
+Washington Nationals,0.574,2019,5,Infielders,53233347,2019WashingtonNationals
+Washington Nationals,0.574,2019,5,Outfielders,17435234,2019WashingtonNationals
+Washington Nationals,0.574,2019,5,DH,0,2019WashingtonNationals
+Washington Nationals,0.574,2019,5,Pitchers,73950626,2019WashingtonNationals
+Washington Nationals,0.574,2019,5,TotalPayroll,172307808,2019WashingtonNationals
+Houston Astros,0.66,2019,4,Catchers,6735492,2019HoustonAstros
+Houston Astros,0.66,2019,4,Infielders,28113428,2019HoustonAstros
+Houston Astros,0.66,2019,4,Outfielders,43296052,2019HoustonAstros
+Houston Astros,0.66,2019,4,DH,0,2019HoustonAstros
+Houston Astros,0.66,2019,4,Pitchers,75225243,2019HoustonAstros
+Houston Astros,0.66,2019,4,TotalPayroll,167138259,2019HoustonAstros
+Los Angeles Angels,0.444,2019,0,Catchers,879067,2019LosAngelesAngels
+Los Angeles Angels,0.444,2019,0,Infielders,45859100,2019LosAngelesAngels
+Los Angeles Angels,0.444,2019,0,Outfielders,47043383,2019LosAngelesAngels
+Los Angeles Angels,0.444,2019,0,DH,650000,2019LosAngelesAngels
+Los Angeles Angels,0.444,2019,0,Pitchers,19885031,2019LosAngelesAngels
+Los Angeles Angels,0.444,2019,0,TotalPayroll,160270385,2019LosAngelesAngels
+Philadelphia Phillies,0.5,2019,0,Catchers,6551536,2019PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2019,0,Infielders,31105922,2019PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2019,0,Outfielders,13176658,2019PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2019,0,DH,252672,2019PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2019,0,Pitchers,31616794,2019PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2019,0,TotalPayroll,159637244,2019PhiladelphiaPhillies
+Colorado Rockies,0.438,2019,0,Catchers,1237512,2019ColoradoRockies
+Colorado Rockies,0.438,2019,0,Infielders,42620242,2019ColoradoRockies
+Colorado Rockies,0.438,2019,0,Outfielders,37689069,2019ColoradoRockies
+Colorado Rockies,0.438,2019,0,DH,0,2019ColoradoRockies
+Colorado Rockies,0.438,2019,0,Pitchers,39031389,2019ColoradoRockies
+Colorado Rockies,0.438,2019,0,TotalPayroll,157162629,2019ColoradoRockies
+Texas Rangers,0.481,2019,0,Catchers,4152726,2019TexasRangers
+Texas Rangers,0.481,2019,0,Infielders,26160009,2019TexasRangers
+Texas Rangers,0.481,2019,0,Outfielders,5084936,2019TexasRangers
+Texas Rangers,0.481,2019,0,DH,21000000,2019TexasRangers
+Texas Rangers,0.481,2019,0,Pitchers,29506668,2019TexasRangers
+Texas Rangers,0.481,2019,0,TotalPayroll,148538766,2019TexasRangers
+New York Mets,0.531,2019,0,Catchers,8356914,2019NewYorkMets
+New York Mets,0.531,2019,0,Infielders,39270800,2019NewYorkMets
+New York Mets,0.531,2019,0,Outfielders,13778253,2019NewYorkMets
+New York Mets,0.531,2019,0,DH,0,2019NewYorkMets
+New York Mets,0.531,2019,0,Pitchers,43084606,2019NewYorkMets
+New York Mets,0.531,2019,0,TotalPayroll,146835812,2019NewYorkMets
+Seattle Mariners,0.42,2019,0,Catchers,1451949,2019SeattleMariners
+Seattle Mariners,0.42,2019,0,Infielders,34770908,2019SeattleMariners
+Seattle Mariners,0.42,2019,0,Outfielders,3254422,2019SeattleMariners
+Seattle Mariners,0.42,2019,0,DH,0,2019SeattleMariners
+Seattle Mariners,0.42,2019,0,Pitchers,45226584,2019SeattleMariners
+Seattle Mariners,0.42,2019,0,TotalPayroll,144391293,2019SeattleMariners
+Atlanta Braves,0.599,2019,2,Catchers,6391070,2019AtlantaBraves
+Atlanta Braves,0.599,2019,2,Infielders,46648102,2019AtlantaBraves
+Atlanta Braves,0.599,2019,2,Outfielders,9977890,2019AtlantaBraves
+Atlanta Braves,0.599,2019,2,DH,0,2019AtlantaBraves
+Atlanta Braves,0.599,2019,2,Pitchers,54741674,2019AtlantaBraves
+Atlanta Braves,0.599,2019,2,TotalPayroll,143947963,2019AtlantaBraves
+Milwaukee Brewers,0.549,2019,1,Catchers,17809431,2019MilwaukeeBrewers
+Milwaukee Brewers,0.549,2019,1,Infielders,21629716,2019MilwaukeeBrewers
+Milwaukee Brewers,0.549,2019,1,Outfielders,44568980,2019MilwaukeeBrewers
+Milwaukee Brewers,0.549,2019,1,DH,0,2019MilwaukeeBrewers
+Milwaukee Brewers,0.549,2019,1,Pitchers,23181670,2019MilwaukeeBrewers
+Milwaukee Brewers,0.549,2019,1,TotalPayroll,135889019,2019MilwaukeeBrewers
+Cincinnati Reds,0.463,2019,0,Catchers,4445000,2019CincinnatiReds
+Cincinnati Reds,0.463,2019,0,Infielders,41340962,2019CincinnatiReds
+Cincinnati Reds,0.463,2019,0,Outfielders,1119000,2019CincinnatiReds
+Cincinnati Reds,0.463,2019,0,DH,0,2019CincinnatiReds
+Cincinnati Reds,0.463,2019,0,Pitchers,37775344,2019CincinnatiReds
+Cincinnati Reds,0.463,2019,0,TotalPayroll,128691569,2019CincinnatiReds
+Minnesota Twins,0.623,2019,2,Catchers,9101925,2019MinnesotaTwins
+Minnesota Twins,0.623,2019,2,Infielders,32994397,2019MinnesotaTwins
+Minnesota Twins,0.623,2019,2,Outfielders,11001838,2019MinnesotaTwins
+Minnesota Twins,0.623,2019,2,DH,14000000,2019MinnesotaTwins
+Minnesota Twins,0.623,2019,2,Pitchers,28961435,2019MinnesotaTwins
+Minnesota Twins,0.623,2019,2,TotalPayroll,125256003,2019MinnesotaTwins
+Arizona Diamondbacks,0.525,2019,0,Catchers,5283120,2019ArizonaDiamondbacks
+Arizona Diamondbacks,0.525,2019,0,Infielders,22647086,2019ArizonaDiamondbacks
+Arizona Diamondbacks,0.525,2019,0,Outfielders,8586536,2019ArizonaDiamondbacks
+Arizona Diamondbacks,0.525,2019,0,DH,0,2019ArizonaDiamondbacks
+Arizona Diamondbacks,0.525,2019,0,Pitchers,28524000,2019ArizonaDiamondbacks
+Arizona Diamondbacks,0.525,2019,0,TotalPayroll,119327905,2019ArizonaDiamondbacks
+Detroit Tigers,0.292,2019,0,Catchers,713536,2019DetroitTigers
+Detroit Tigers,0.292,2019,0,Infielders,37606120,2019DetroitTigers
+Detroit Tigers,0.292,2019,0,Outfielders,953121,2019DetroitTigers
+Detroit Tigers,0.292,2019,0,DH,0,2019DetroitTigers
+Detroit Tigers,0.292,2019,0,Pitchers,33436969,2019DetroitTigers
+Detroit Tigers,0.292,2019,0,TotalPayroll,114631137,2019DetroitTigers
+Toronto Blue Jays,0.414,2019,0,Catchers,1331660,2019TorontoBlueJays
+Toronto Blue Jays,0.414,2019,0,Infielders,11021064,2019TorontoBlueJays
+Toronto Blue Jays,0.414,2019,0,Outfielders,9431202,2019TorontoBlueJays
+Toronto Blue Jays,0.414,2019,0,DH,0,2019TorontoBlueJays
+Toronto Blue Jays,0.414,2019,0,Pitchers,14854050,2019TorontoBlueJays
+Toronto Blue Jays,0.414,2019,0,TotalPayroll,111371067,2019TorontoBlueJays
+Cleveland Guardians,0.574,2019,0,Catchers,3857988,2019ClevelandGuardians
+Cleveland Guardians,0.574,2019,0,Infielders,30643112,2019ClevelandGuardians
+Cleveland Guardians,0.574,2019,0,Outfielders,5139332,2019ClevelandGuardians
+Cleveland Guardians,0.574,2019,0,DH,18333333,2019ClevelandGuardians
+Cleveland Guardians,0.574,2019,0,Pitchers,25764243,2019ClevelandGuardians
+Cleveland Guardians,0.574,2019,0,TotalPayroll,107693747,2019ClevelandGuardians
+Kansas City Royals,0.364,2019,0,Catchers,942061,2019KansasCityRoyals
+Kansas City Royals,0.364,2019,0,Infielders,3407459,2019KansasCityRoyals
+Kansas City Royals,0.364,2019,0,Outfielders,20373000,2019KansasCityRoyals
+Kansas City Royals,0.364,2019,0,DH,5224207,2019KansasCityRoyals
+Kansas City Royals,0.364,2019,0,Pitchers,38678605,2019KansasCityRoyals
+Kansas City Royals,0.364,2019,0,TotalPayroll,104773003,2019KansasCityRoyals
+San Diego Padres,0.432,2019,0,Catchers,2908646,2019SanDiegoPadres
+San Diego Padres,0.432,2019,0,Infielders,34943052,2019SanDiegoPadres
+San Diego Padres,0.432,2019,0,Outfielders,7920104,2019SanDiegoPadres
+San Diego Padres,0.432,2019,0,DH,0,2019SanDiegoPadres
+San Diego Padres,0.432,2019,0,Pitchers,19674992,2019SanDiegoPadres
+San Diego Padres,0.432,2019,0,TotalPayroll,103699790,2019SanDiegoPadres
+Oakland Athletics,0.599,2019,1,Catchers,1161536,2019OaklandAthletics
+Oakland Athletics,0.599,2019,1,Infielders,11043739,2019OaklandAthletics
+Oakland Athletics,0.599,2019,1,Outfielders,10550593,2019OaklandAthletics
+Oakland Athletics,0.599,2019,1,DH,18500000,2019OaklandAthletics
+Oakland Athletics,0.599,2019,1,Pitchers,42253260,2019OaklandAthletics
+Oakland Athletics,0.599,2019,1,TotalPayroll,98644531,2019OaklandAthletics
+Chicago White Sox,0.447,2019,0,Catchers,9914120,2019ChicagoWhiteSox
+Chicago White Sox,0.447,2019,0,Infielders,7249774,2019ChicagoWhiteSox
+Chicago White Sox,0.447,2019,0,Outfielders,4393269,2019ChicagoWhiteSox
+Chicago White Sox,0.447,2019,0,DH,16015000,2019ChicagoWhiteSox
+Chicago White Sox,0.447,2019,0,Pitchers,29758268,2019ChicagoWhiteSox
+Chicago White Sox,0.447,2019,0,TotalPayroll,91371201,2019ChicagoWhiteSox
+Miami Marlins,0.352,2019,0,Catchers,1436880,2019MiamiMarlins
+Miami Marlins,0.352,2019,0,Infielders,32665638,2019MiamiMarlins
+Miami Marlins,0.352,2019,0,Outfielders,3308865,2019MiamiMarlins
+Miami Marlins,0.352,2019,0,DH,0,2019MiamiMarlins
+Miami Marlins,0.352,2019,0,Pitchers,29191377,2019MiamiMarlins
+Miami Marlins,0.352,2019,0,TotalPayroll,75596271,2019MiamiMarlins
+Baltimore Orioles,0.333,2019,0,Catchers,1170596,2019BaltimoreOrioles
+Baltimore Orioles,0.333,2019,0,Infielders,28570347,2019BaltimoreOrioles
+Baltimore Orioles,0.333,2019,0,Outfielders,1823824,2019BaltimoreOrioles
+Baltimore Orioles,0.333,2019,0,DH,11000000,2019BaltimoreOrioles
+Baltimore Orioles,0.333,2019,0,Pitchers,10236850,2019BaltimoreOrioles
+Baltimore Orioles,0.333,2019,0,TotalPayroll,73316689,2019BaltimoreOrioles
+Pittsburgh Pirates,0.426,2019,0,Catchers,1195732,2019PittsburghPirates
+Pittsburgh Pirates,0.426,2019,0,Infielders,3757545,2019PittsburghPirates
+Pittsburgh Pirates,0.426,2019,0,Outfielders,12339150,2019PittsburghPirates
+Pittsburgh Pirates,0.426,2019,0,DH,0,2019PittsburghPirates
+Pittsburgh Pirates,0.426,2019,0,Pitchers,10381681,2019PittsburghPirates
+Pittsburgh Pirates,0.426,2019,0,TotalPayroll,72176474,2019PittsburghPirates
+Tampa Bay Rays,0.593,2019,2,Catchers,5200413,2019TampaBayRays
+Tampa Bay Rays,0.593,2019,2,Infielders,7440252,2019TampaBayRays
+Tampa Bay Rays,0.593,2019,2,Outfielders,18103850,2019TampaBayRays
+Tampa Bay Rays,0.593,2019,2,DH,0,2019TampaBayRays
+Tampa Bay Rays,0.593,2019,2,Pitchers,23600859,2019TampaBayRays
+Tampa Bay Rays,0.593,2019,2,TotalPayroll,64178722,2019TampaBayRays
+Boston Red Sox,0.667,2018,5,Catchers,3375000,2018BostonRedSox
+Boston Red Sox,0.667,2018,5,Infielders,22615270,2018BostonRedSox
+Boston Red Sox,0.667,2018,5,Outfielders,19284000,2018BostonRedSox
+Boston Red Sox,0.667,2018,5,DH,23750000,2018BostonRedSox
+Boston Red Sox,0.667,2018,5,Pitchers,98931510,2018BostonRedSox
+Boston Red Sox,0.667,2018,5,TotalPayroll,227398860,2018BostonRedSox
+San Francisco Giants,0.451,2018,0,Catchers,2605480,2018SanFranciscoGiants
+San Francisco Giants,0.451,2018,0,Infielders,49142250,2018SanFranciscoGiants
+San Francisco Giants,0.451,2018,0,Outfielders,19549488,2018SanFranciscoGiants
+San Francisco Giants,0.451,2018,0,DH,0,2018SanFranciscoGiants
+San Francisco Giants,0.451,2018,0,Pitchers,48392000,2018SanFranciscoGiants
+San Francisco Giants,0.451,2018,0,TotalPayroll,205665348,2018SanFranciscoGiants
+Los Angeles Dodgers,0.564,2018,4,Catchers,8777300,2018LosAngelesDodgers
+Los Angeles Dodgers,0.564,2018,4,Infielders,24820501,2018LosAngelesDodgers
+Los Angeles Dodgers,0.564,2018,4,Outfielders,31674339,2018LosAngelesDodgers
+Los Angeles Dodgers,0.564,2018,4,DH,0,2018LosAngelesDodgers
+Los Angeles Dodgers,0.564,2018,4,Pitchers,95230456,2018LosAngelesDodgers
+Los Angeles Dodgers,0.564,2018,4,TotalPayroll,199582045,2018LosAngelesDodgers
+Chicago Cubs,0.583,2018,1,Catchers,1218928,2018ChicagoCubs
+Chicago Cubs,0.583,2018,1,Infielders,40419610,2018ChicagoCubs
+Chicago Cubs,0.583,2018,1,Outfielders,30013567,2018ChicagoCubs
+Chicago Cubs,0.583,2018,1,DH,0,2018ChicagoCubs
+Chicago Cubs,0.583,2018,1,Pitchers,80440852,2018ChicagoCubs
+Chicago Cubs,0.583,2018,1,TotalPayroll,194259933,2018ChicagoCubs
+Washington Nationals,0.506,2018,0,Catchers,11294030,2018WashingtonNationals
+Washington Nationals,0.506,2018,0,Infielders,28383131,2018WashingtonNationals
+Washington Nationals,0.506,2018,0,Outfielders,30973710,2018WashingtonNationals
+Washington Nationals,0.506,2018,0,DH,0,2018WashingtonNationals
+Washington Nationals,0.506,2018,0,Pitchers,59547108,2018WashingtonNationals
+Washington Nationals,0.506,2018,0,TotalPayroll,181382609,2018WashingtonNationals
+New York Yankees,0.617,2018,2,Catchers,1992890,2018NewYorkYankees
+New York Yankees,0.617,2018,2,Infielders,14972769,2018NewYorkYankees
+New York Yankees,0.617,2018,2,Outfielders,16176465,2018NewYorkYankees
+New York Yankees,0.617,2018,2,DH,25000000,2018NewYorkYankees
+New York Yankees,0.617,2018,2,Pitchers,89868705,2018NewYorkYankees
+New York Yankees,0.617,2018,2,TotalPayroll,180098151,2018NewYorkYankees
+Los Angeles Angels,0.494,2018,0,Catchers,767660,2018LosAngelesAngels
+Los Angeles Angels,0.494,2018,0,Infielders,12335450,2018LosAngelesAngels
+Los Angeles Angels,0.494,2018,0,Outfielders,59107803,2018LosAngelesAngels
+Los Angeles Angels,0.494,2018,0,DH,545000,2018LosAngelesAngels
+Los Angeles Angels,0.494,2018,0,Pitchers,19158170,2018LosAngelesAngels
+Los Angeles Angels,0.494,2018,0,TotalPayroll,173717599,2018LosAngelesAngels
+St. Louis Cardinals,0.543,2018,0,Catchers,20825800,2018St.LouisCardinals
+St. Louis Cardinals,0.543,2018,0,Infielders,28037811,2018St.LouisCardinals
+St. Louis Cardinals,0.543,2018,0,Outfielders,9946390,2018St.LouisCardinals
+St. Louis Cardinals,0.543,2018,0,DH,0,2018St.LouisCardinals
+St. Louis Cardinals,0.543,2018,0,Pitchers,54931328,2018St.LouisCardinals
+St. Louis Cardinals,0.543,2018,0,TotalPayroll,163534311,2018St.LouisCardinals
+Houston Astros,0.636,2018,3,Catchers,20140988,2018HoustonAstros
+Houston Astros,0.636,2018,3,Infielders,23232682,2018HoustonAstros
+Houston Astros,0.636,2018,3,Outfielders,32622720,2018HoustonAstros
+Houston Astros,0.636,2018,3,DH,278350,2018HoustonAstros
+Houston Astros,0.636,2018,3,Pitchers,82245770,2018HoustonAstros
+Houston Astros,0.636,2018,3,TotalPayroll,163524216,2018HoustonAstros
+Seattle Mariners,0.549,2018,0,Catchers,3710430,2018SeattleMariners
+Seattle Mariners,0.549,2018,0,Infielders,55059062,2018SeattleMariners
+Seattle Mariners,0.549,2018,0,Outfielders,4439196,2018SeattleMariners
+Seattle Mariners,0.549,2018,0,DH,14275000,2018SeattleMariners
+Seattle Mariners,0.549,2018,0,Pitchers,59355975,2018SeattleMariners
+Seattle Mariners,0.549,2018,0,TotalPayroll,160993827,2018SeattleMariners
+Toronto Blue Jays,0.451,2018,0,Catchers,20778150,2018TorontoBlueJays
+Toronto Blue Jays,0.451,2018,0,Infielders,13389341,2018TorontoBlueJays
+Toronto Blue Jays,0.451,2018,0,Outfielders,6826450,2018TorontoBlueJays
+Toronto Blue Jays,0.451,2018,0,DH,11000000,2018TorontoBlueJays
+Toronto Blue Jays,0.451,2018,0,Pitchers,29299406,2018TorontoBlueJays
+Toronto Blue Jays,0.451,2018,0,TotalPayroll,150946147,2018TorontoBlueJays
+New York Mets,0.475,2018,0,Catchers,1240901,2018NewYorkMets
+New York Mets,0.475,2018,0,Infielders,34485130,2018NewYorkMets
+New York Mets,0.475,2018,0,Outfielders,12345461,2018NewYorkMets
+New York Mets,0.475,2018,0,DH,0,2018NewYorkMets
+New York Mets,0.475,2018,0,Pitchers,34583711,2018NewYorkMets
+New York Mets,0.475,2018,0,TotalPayroll,150187987,2018NewYorkMets
+Colorado Rockies,0.558,2018,2,Catchers,4785326,2018ColoradoRockies
+Colorado Rockies,0.558,2018,2,Infielders,49715449,2018ColoradoRockies
+Colorado Rockies,0.558,2018,2,Outfielders,31433284,2018ColoradoRockies
+Colorado Rockies,0.558,2018,2,DH,0,2018ColoradoRockies
+Colorado Rockies,0.558,2018,2,Pitchers,45279109,2018ColoradoRockies
+Colorado Rockies,0.558,2018,2,TotalPayroll,143968544,2018ColoradoRockies
+Cleveland Guardians,0.562,2018,2,Catchers,7746233,2018ClevelandGuardians
+Cleveland Guardians,0.562,2018,2,Infielders,26336932,2018ClevelandGuardians
+Cleveland Guardians,0.562,2018,2,Outfielders,17448768,2018ClevelandGuardians
+Cleveland Guardians,0.562,2018,2,DH,18666666,2018ClevelandGuardians
+Cleveland Guardians,0.562,2018,2,Pitchers,53771946,2018ClevelandGuardians
+Cleveland Guardians,0.562,2018,2,TotalPayroll,143104703,2018ClevelandGuardians
+Arizona Diamondbacks,0.506,2018,0,Catchers,6656912,2018ArizonaDiamondbacks
+Arizona Diamondbacks,0.506,2018,0,Infielders,17551915,2018ArizonaDiamondbacks
+Arizona Diamondbacks,0.506,2018,0,Outfielders,20013083,2018ArizonaDiamondbacks
+Arizona Diamondbacks,0.506,2018,0,DH,0,2018ArizonaDiamondbacks
+Arizona Diamondbacks,0.506,2018,0,Pitchers,63679718,2018ArizonaDiamondbacks
+Arizona Diamondbacks,0.506,2018,0,TotalPayroll,141724597,2018ArizonaDiamondbacks
+Texas Rangers,0.414,2018,0,Catchers,2578160,2018TexasRangers
+Texas Rangers,0.414,2018,0,Infielders,38819983,2018TexasRangers
+Texas Rangers,0.414,2018,0,Outfielders,3561460,2018TexasRangers
+Texas Rangers,0.414,2018,0,DH,20100000,2018TexasRangers
+Texas Rangers,0.414,2018,0,Pitchers,31179413,2018TexasRangers
+Texas Rangers,0.414,2018,0,TotalPayroll,140625018,2018TexasRangers
+Detroit Tigers,0.395,2018,0,Catchers,2747820,2018DetroitTigers
+Detroit Tigers,0.395,2018,0,Infielders,1655860,2018DetroitTigers
+Detroit Tigers,0.395,2018,0,Outfielders,7764821,2018DetroitTigers
+Detroit Tigers,0.395,2018,0,DH,18000000,2018DetroitTigers
+Detroit Tigers,0.395,2018,0,Pitchers,36879015,2018DetroitTigers
+Detroit Tigers,0.395,2018,0,TotalPayroll,130959889,2018DetroitTigers
+Atlanta Braves,0.556,2018,2,Catchers,8646782,2018AtlantaBraves
+Atlanta Braves,0.556,2018,2,Infielders,24988034,2018AtlantaBraves
+Atlanta Braves,0.556,2018,2,Outfielders,16603850,2018AtlantaBraves
+Atlanta Braves,0.556,2018,2,DH,0,2018AtlantaBraves
+Atlanta Braves,0.556,2018,2,Pitchers,23528899,2018AtlantaBraves
+Atlanta Braves,0.556,2018,2,TotalPayroll,130849395,2018AtlantaBraves
+Baltimore Orioles,0.29,2018,0,Catchers,1965912,2018BaltimoreOrioles
+Baltimore Orioles,0.29,2018,0,Infielders,26167822,2018BaltimoreOrioles
+Baltimore Orioles,0.29,2018,0,Outfielders,18850873,2018BaltimoreOrioles
+Baltimore Orioles,0.29,2018,0,DH,0,2018BaltimoreOrioles
+Baltimore Orioles,0.29,2018,0,Pitchers,22653380,2018BaltimoreOrioles
+Baltimore Orioles,0.29,2018,0,TotalPayroll,130413607,2018BaltimoreOrioles
+Kansas City Royals,0.358,2018,0,Catchers,8957840,2018KansasCityRoyals
+Kansas City Royals,0.358,2018,0,Infielders,5557520,2018KansasCityRoyals
+Kansas City Royals,0.358,2018,0,Outfielders,20963788,2018KansasCityRoyals
+Kansas City Royals,0.358,2018,0,DH,0,2018KansasCityRoyals
+Kansas City Royals,0.358,2018,0,Pitchers,48139080,2018KansasCityRoyals
+Kansas City Royals,0.358,2018,0,TotalPayroll,129944821,2018KansasCityRoyals
+Minnesota Twins,0.481,2018,0,Catchers,840500,2018MinnesotaTwins
+Minnesota Twins,0.481,2018,0,Infielders,28224363,2018MinnesotaTwins
+Minnesota Twins,0.481,2018,0,Outfielders,1632430,2018MinnesotaTwins
+Minnesota Twins,0.481,2018,0,DH,2000000,2018MinnesotaTwins
+Minnesota Twins,0.481,2018,0,Pitchers,23557080,2018MinnesotaTwins
+Minnesota Twins,0.481,2018,0,TotalPayroll,115509520,2018MinnesotaTwins
+Milwaukee Brewers,0.589,2018,3,Catchers,1090430,2018MilwaukeeBrewers
+Milwaukee Brewers,0.589,2018,3,Infielders,13734493,2018MilwaukeeBrewers
+Milwaukee Brewers,0.589,2018,3,Outfielders,43123154,2018MilwaukeeBrewers
+Milwaukee Brewers,0.589,2018,3,DH,0,2018MilwaukeeBrewers
+Milwaukee Brewers,0.589,2018,3,Pitchers,31940762,2018MilwaukeeBrewers
+Milwaukee Brewers,0.589,2018,3,TotalPayroll,108982016,2018MilwaukeeBrewers
+Philadelphia Phillies,0.494,2018,0,Catchers,4547844,2018PhiladelphiaPhillies
+Philadelphia Phillies,0.494,2018,0,Infielders,32397603,2018PhiladelphiaPhillies
+Philadelphia Phillies,0.494,2018,0,Outfielders,5417376,2018PhiladelphiaPhillies
+Philadelphia Phillies,0.494,2018,0,DH,0,2018PhiladelphiaPhillies
+Philadelphia Phillies,0.494,2018,0,Pitchers,54653524,2018PhiladelphiaPhillies
+Philadelphia Phillies,0.494,2018,0,TotalPayroll,104297471,2018PhiladelphiaPhillies
+San Diego Padres,0.407,2018,0,Catchers,1882210,2018SanDiegoPadres
+San Diego Padres,0.407,2018,0,Infielders,30180820,2018SanDiegoPadres
+San Diego Padres,0.407,2018,0,Outfielders,6413100,2018SanDiegoPadres
+San Diego Padres,0.407,2018,0,DH,0,2018SanDiegoPadres
+San Diego Padres,0.407,2018,0,Pitchers,11623347,2018SanDiegoPadres
+San Diego Padres,0.407,2018,0,TotalPayroll,103773315,2018SanDiegoPadres
+Cincinnati Reds,0.414,2018,0,Catchers,4794960,2018CincinnatiReds
+Cincinnati Reds,0.414,2018,0,Infielders,34560474,2018CincinnatiReds
+Cincinnati Reds,0.414,2018,0,Outfielders,5678100,2018CincinnatiReds
+Cincinnati Reds,0.414,2018,0,DH,0,2018CincinnatiReds
+Cincinnati Reds,0.414,2018,0,Pitchers,37477765,2018CincinnatiReds
+Cincinnati Reds,0.414,2018,0,TotalPayroll,100305768,2018CincinnatiReds
+Miami Marlins,0.391,2018,0,Catchers,4055290,2018MiamiMarlins
+Miami Marlins,0.391,2018,0,Infielders,12957182,2018MiamiMarlins
+Miami Marlins,0.391,2018,0,Outfielders,4589960,2018MiamiMarlins
+Miami Marlins,0.391,2018,0,DH,0,2018MiamiMarlins
+Miami Marlins,0.391,2018,0,Pitchers,21431082,2018MiamiMarlins
+Miami Marlins,0.391,2018,0,TotalPayroll,91665500,2018MiamiMarlins
+Pittsburgh Pirates,0.509,2018,0,Catchers,11346140,2018PittsburghPirates
+Pittsburgh Pirates,0.509,2018,0,Infielders,21765040,2018PittsburghPirates
+Pittsburgh Pirates,0.509,2018,0,Outfielders,13988433,2018PittsburghPirates
+Pittsburgh Pirates,0.509,2018,0,DH,0,2018PittsburghPirates
+Pittsburgh Pirates,0.509,2018,0,Pitchers,20476802,2018PittsburghPirates
+Pittsburgh Pirates,0.509,2018,0,TotalPayroll,91025861,2018PittsburghPirates
+Oakland Athletics,0.599,2018,1,Catchers,7492900,2018OaklandAthletics
+Oakland Athletics,0.599,2018,1,Infielders,10483700,2018OaklandAthletics
+Oakland Athletics,0.599,2018,1,Outfielders,9156111,2018OaklandAthletics
+Oakland Athletics,0.599,2018,1,DH,10500000,2018OaklandAthletics
+Oakland Athletics,0.599,2018,1,Pitchers,23892946,2018OaklandAthletics
+Oakland Athletics,0.599,2018,1,TotalPayroll,80315288,2018OaklandAthletics
+Chicago White Sox,0.383,2018,0,Catchers,8155740,2018ChicagoWhiteSox
+Chicago White Sox,0.383,2018,0,Infielders,17142330,2018ChicagoWhiteSox
+Chicago White Sox,0.383,2018,0,Outfielders,9730392,2018ChicagoWhiteSox
+Chicago White Sox,0.383,2018,0,DH,570000,2018ChicagoWhiteSox
+Chicago White Sox,0.383,2018,0,Pitchers,21663080,2018ChicagoWhiteSox
+Chicago White Sox,0.383,2018,0,TotalPayroll,71839808,2018ChicagoWhiteSox
+Tampa Bay Rays,0.556,2018,0,Catchers,1115450,2018TampaBayRays
+Tampa Bay Rays,0.556,2018,0,Infielders,2721590,2018TampaBayRays
+Tampa Bay Rays,0.556,2018,0,Outfielders,10841926,2018TampaBayRays
+Tampa Bay Rays,0.556,2018,0,DH,2300000,2018TampaBayRays
+Tampa Bay Rays,0.556,2018,0,Pitchers,8690022,2018TampaBayRays
+Tampa Bay Rays,0.556,2018,0,TotalPayroll,68810167,2018TampaBayRays
+Los Angeles Dodgers,0.642,2017,4,Catchers,6107229,2017LosAngelesDodgers
+Los Angeles Dodgers,0.642,2017,4,Infielders,46195745,2017LosAngelesDodgers
+Los Angeles Dodgers,0.642,2017,4,Outfielders,31124566,2017LosAngelesDodgers
+Los Angeles Dodgers,0.642,2017,4,DH,0,2017LosAngelesDodgers
+Los Angeles Dodgers,0.642,2017,4,Pitchers,100856551,2017LosAngelesDodgers
+Los Angeles Dodgers,0.642,2017,4,TotalPayroll,259166393,2017LosAngelesDodgers
+Boston Red Sox,0.574,2017,2,Catchers,1951613,2017BostonRedSox
+Boston Red Sox,0.574,2017,2,Infielders,29538875,2017BostonRedSox
+Boston Red Sox,0.574,2017,2,Outfielders,24149121,2017BostonRedSox
+Boston Red Sox,0.574,2017,2,DH,22750000,2017BostonRedSox
+Boston Red Sox,0.574,2017,2,Pitchers,93768937,2017BostonRedSox
+Boston Red Sox,0.574,2017,2,TotalPayroll,209872508,2017BostonRedSox
+New York Yankees,0.562,2017,3,Catchers,1456436,2017NewYorkYankees
+New York Yankees,0.562,2017,3,Infielders,35417814,2017NewYorkYankees
+New York Yankees,0.562,2017,3,Outfielders,35809196,2017NewYorkYankees
+New York Yankees,0.562,2017,3,DH,13000000,2017NewYorkYankees
+New York Yankees,0.562,2017,3,Pitchers,79143450,2017NewYorkYankees
+New York Yankees,0.562,2017,3,TotalPayroll,209044502,2017NewYorkYankees
+San Francisco Giants,0.395,2017,0,Catchers,24288851,2017SanFranciscoGiants
+San Francisco Giants,0.395,2017,0,Infielders,9727081,2017SanFranciscoGiants
+San Francisco Giants,0.395,2017,0,Outfielders,34026115,2017SanFranciscoGiants
+San Francisco Giants,0.395,2017,0,DH,0,2017SanFranciscoGiants
+San Francisco Giants,0.395,2017,0,Pitchers,103750737,2017SanFranciscoGiants
+San Francisco Giants,0.395,2017,0,TotalPayroll,189806809,2017SanFranciscoGiants
+Detroit Tigers,0.395,2017,0,Catchers,932090,2017DetroitTigers
+Detroit Tigers,0.395,2017,0,Infielders,48121949,2017DetroitTigers
+Detroit Tigers,0.395,2017,0,Outfielders,1452143,2017DetroitTigers
+Detroit Tigers,0.395,2017,0,DH,0,2017DetroitTigers
+Detroit Tigers,0.395,2017,0,Pitchers,40249148,2017DetroitTigers
+Detroit Tigers,0.395,2017,0,TotalPayroll,188498884,2017DetroitTigers
+Washington Nationals,0.599,2017,2,Catchers,12302994,2017WashingtonNationals
+Washington Nationals,0.599,2017,2,Infielders,38403001,2017WashingtonNationals
+Washington Nationals,0.599,2017,2,Outfielders,39788350,2017WashingtonNationals
+Washington Nationals,0.599,2017,2,DH,0,2017WashingtonNationals
+Washington Nationals,0.599,2017,2,Pitchers,74045507,2017WashingtonNationals
+Washington Nationals,0.599,2017,2,TotalPayroll,182238854,2017WashingtonNationals
+Toronto Blue Jays,0.469,2017,0,Catchers,27593141,2017TorontoBlueJays
+Toronto Blue Jays,0.469,2017,0,Infielders,24841308,2017TorontoBlueJays
+Toronto Blue Jays,0.469,2017,0,Outfielders,26151649,2017TorontoBlueJays
+Toronto Blue Jays,0.469,2017,0,DH,10000000,2017TorontoBlueJays
+Toronto Blue Jays,0.469,2017,0,Pitchers,36835971,2017TorontoBlueJays
+Toronto Blue Jays,0.469,2017,0,TotalPayroll,175617487,2017TorontoBlueJays
+Baltimore Orioles,0.463,2017,0,Catchers,6790613,2017BaltimoreOrioles
+Baltimore Orioles,0.463,2017,0,Infielders,54145030,2017BaltimoreOrioles
+Baltimore Orioles,0.463,2017,0,Outfielders,25162141,2017BaltimoreOrioles
+Baltimore Orioles,0.463,2017,0,DH,10000000,2017BaltimoreOrioles
+Baltimore Orioles,0.463,2017,0,Pitchers,67503842,2017BaltimoreOrioles
+Baltimore Orioles,0.463,2017,0,TotalPayroll,175295707,2017BaltimoreOrioles
+Chicago Cubs,0.568,2017,3,Catchers,1951945,2017ChicagoCubs
+Chicago Cubs,0.568,2017,3,Infielders,26527201,2017ChicagoCubs
+Chicago Cubs,0.568,2017,3,Outfielders,38474445,2017ChicagoCubs
+Chicago Cubs,0.568,2017,3,DH,0,2017ChicagoCubs
+Chicago Cubs,0.568,2017,3,Pitchers,94174243,2017ChicagoCubs
+Chicago Cubs,0.568,2017,3,TotalPayroll,172092536,2017ChicagoCubs
+Los Angeles Angels,0.494,2017,0,Catchers,2353834,2017LosAngelesAngels
+Los Angeles Angels,0.494,2017,0,Infielders,17719577,2017LosAngelesAngels
+Los Angeles Angels,0.494,2017,0,Outfielders,33466246,2017LosAngelesAngels
+Los Angeles Angels,0.494,2017,0,DH,26000000,2017LosAngelesAngels
+Los Angeles Angels,0.494,2017,0,Pitchers,29646168,2017LosAngelesAngels
+Los Angeles Angels,0.494,2017,0,TotalPayroll,166161209,2017LosAngelesAngels
+Texas Rangers,0.481,2017,0,Catchers,2272277,2017TexasRangers
+Texas Rangers,0.481,2017,0,Infielders,41311947,2017TexasRangers
+Texas Rangers,0.481,2017,0,Outfielders,33470022,2017TexasRangers
+Texas Rangers,0.481,2017,0,DH,0,2017TexasRangers
+Texas Rangers,0.481,2017,0,Pitchers,49310939,2017TexasRangers
+Texas Rangers,0.481,2017,0,TotalPayroll,163400840,2017TexasRangers
+Seattle Mariners,0.481,2017,0,Catchers,5107703,2017SeattleMariners
+Seattle Mariners,0.481,2017,0,Infielders,49196827,2017SeattleMariners
+Seattle Mariners,0.481,2017,0,Outfielders,4666601,2017SeattleMariners
+Seattle Mariners,0.481,2017,0,DH,14250000,2017SeattleMariners
+Seattle Mariners,0.481,2017,0,Pitchers,53399852,2017SeattleMariners
+Seattle Mariners,0.481,2017,0,TotalPayroll,161397330,2017SeattleMariners
+Kansas City Royals,0.494,2017,0,Catchers,5837381,2017KansasCityRoyals
+Kansas City Royals,0.494,2017,0,Infielders,28905367,2017KansasCityRoyals
+Kansas City Royals,0.494,2017,0,Outfielders,34297791,2017KansasCityRoyals
+Kansas City Royals,0.494,2017,0,DH,3750000,2017KansasCityRoyals
+Kansas City Royals,0.494,2017,0,Pitchers,52888152,2017KansasCityRoyals
+Kansas City Royals,0.494,2017,0,TotalPayroll,148227822,2017KansasCityRoyals
+St. Louis Cardinals,0.512,2017,0,Catchers,14503992,2017St.LouisCardinals
+St. Louis Cardinals,0.512,2017,0,Infielders,20357571,2017St.LouisCardinals
+St. Louis Cardinals,0.512,2017,0,Outfielders,22001028,2017St.LouisCardinals
+St. Louis Cardinals,0.512,2017,0,DH,0,2017St.LouisCardinals
+St. Louis Cardinals,0.512,2017,0,Pitchers,53599363,2017St.LouisCardinals
+St. Louis Cardinals,0.512,2017,0,TotalPayroll,147756085,2017St.LouisCardinals
+New York Mets,0.432,2017,0,Catchers,2161454,2017NewYorkMets
+New York Mets,0.432,2017,0,Infielders,11926206,2017NewYorkMets
+New York Mets,0.432,2017,0,Outfielders,5138271,2017NewYorkMets
+New York Mets,0.432,2017,0,DH,0,2017NewYorkMets
+New York Mets,0.432,2017,0,Pitchers,29510539,2017NewYorkMets
+New York Mets,0.432,2017,0,TotalPayroll,143990158,2017NewYorkMets
+Colorado Rockies,0.537,2017,1,Catchers,3804064,2017ColoradoRockies
+Colorado Rockies,0.537,2017,1,Infielders,20289215,2017ColoradoRockies
+Colorado Rockies,0.537,2017,1,Outfielders,44152406,2017ColoradoRockies
+Colorado Rockies,0.537,2017,1,DH,0,2017ColoradoRockies
+Colorado Rockies,0.537,2017,1,Pitchers,36783399,2017ColoradoRockies
+Colorado Rockies,0.537,2017,1,TotalPayroll,139324341,2017ColoradoRockies
+Houston Astros,0.623,2017,5,Catchers,17012761,2017HoustonAstros
+Houston Astros,0.623,2017,5,Infielders,20705578,2017HoustonAstros
+Houston Astros,0.623,2017,5,Outfielders,23617367,2017HoustonAstros
+Houston Astros,0.623,2017,5,DH,16000000,2017HoustonAstros
+Houston Astros,0.623,2017,5,Pitchers,54835210,2017HoustonAstros
+Houston Astros,0.623,2017,5,TotalPayroll,138344211,2017HoustonAstros
+Cleveland Guardians,0.63,2017,2,Catchers,5348946,2017ClevelandGuardians
+Cleveland Guardians,0.63,2017,2,Infielders,23832883,2017ClevelandGuardians
+Cleveland Guardians,0.63,2017,2,Outfielders,21074978,2017ClevelandGuardians
+Cleveland Guardians,0.63,2017,2,DH,14816666,2017ClevelandGuardians
+Cleveland Guardians,0.63,2017,2,Pitchers,50998846,2017ClevelandGuardians
+Cleveland Guardians,0.63,2017,2,TotalPayroll,132258928,2017ClevelandGuardians
+Minnesota Twins,0.525,2017,1,Catchers,9581535,2017MinnesotaTwins
+Minnesota Twins,0.525,2017,1,Infielders,33673914,2017MinnesotaTwins
+Minnesota Twins,0.525,2017,1,Outfielders,2473954,2017MinnesotaTwins
+Minnesota Twins,0.525,2017,1,DH,0,2017MinnesotaTwins
+Minnesota Twins,0.525,2017,1,Pitchers,29887046,2017MinnesotaTwins
+Minnesota Twins,0.525,2017,1,TotalPayroll,121048871,2017MinnesotaTwins
+Miami Marlins,0.475,2017,0,Catchers,3062500,2017MiamiMarlins
+Miami Marlins,0.475,2017,0,Infielders,12131178,2017MiamiMarlins
+Miami Marlins,0.475,2017,0,Outfielders,23500000,2017MiamiMarlins
+Miami Marlins,0.475,2017,0,DH,0,2017MiamiMarlins
+Miami Marlins,0.475,2017,0,Pitchers,33666633,2017MiamiMarlins
+Miami Marlins,0.475,2017,0,TotalPayroll,110765599,2017MiamiMarlins
+Atlanta Braves,0.444,2017,0,Catchers,5349073,2017AtlantaBraves
+Atlanta Braves,0.444,2017,0,Infielders,24842221,2017AtlantaBraves
+Atlanta Braves,0.444,2017,0,Outfielders,24352447,2017AtlantaBraves
+Atlanta Braves,0.444,2017,0,DH,0,2017AtlantaBraves
+Atlanta Braves,0.444,2017,0,Pitchers,26169693,2017AtlantaBraves
+Atlanta Braves,0.444,2017,0,TotalPayroll,105218575,2017AtlantaBraves
+Philadelphia Phillies,0.407,2017,0,Catchers,1272457,2017PhiladelphiaPhillies
+Philadelphia Phillies,0.407,2017,0,Infielders,11519385,2017PhiladelphiaPhillies
+Philadelphia Phillies,0.407,2017,0,Outfielders,4310724,2017PhiladelphiaPhillies
+Philadelphia Phillies,0.407,2017,0,DH,0,2017PhiladelphiaPhillies
+Philadelphia Phillies,0.407,2017,0,Pitchers,6033368,2017PhiladelphiaPhillies
+Philadelphia Phillies,0.407,2017,0,TotalPayroll,104020808,2017PhiladelphiaPhillies
+Arizona Diamondbacks,0.574,2017,2,Catchers,4528113,2017ArizonaDiamondbacks
+Arizona Diamondbacks,0.574,2017,2,Infielders,12186788,2017ArizonaDiamondbacks
+Arizona Diamondbacks,0.574,2017,2,Outfielders,9041369,2017ArizonaDiamondbacks
+Arizona Diamondbacks,0.574,2017,2,DH,4879808,2017ArizonaDiamondbacks
+Arizona Diamondbacks,0.574,2017,2,Pitchers,51008697,2017ArizonaDiamondbacks
+Arizona Diamondbacks,0.574,2017,2,TotalPayroll,102619475,2017ArizonaDiamondbacks
+Pittsburgh Pirates,0.463,2017,0,Catchers,1785836,2017PittsburghPirates
+Pittsburgh Pirates,0.463,2017,0,Infielders,14082485,2017PittsburghPirates
+Pittsburgh Pirates,0.463,2017,0,Outfielders,23166329,2017PittsburghPirates
+Pittsburgh Pirates,0.463,2017,0,DH,0,2017PittsburghPirates
+Pittsburgh Pirates,0.463,2017,0,Pitchers,27461663,2017PittsburghPirates
+Pittsburgh Pirates,0.463,2017,0,TotalPayroll,100503030,2017PittsburghPirates
+Cincinnati Reds,0.42,2017,0,Catchers,1212305,2017CincinnatiReds
+Cincinnati Reds,0.42,2017,0,Infielders,31075613,2017CincinnatiReds
+Cincinnati Reds,0.42,2017,0,Outfielders,4677951,2017CincinnatiReds
+Cincinnati Reds,0.42,2017,0,DH,0,2017CincinnatiReds
+Cincinnati Reds,0.42,2017,0,Pitchers,27602078,2017CincinnatiReds
+Cincinnati Reds,0.42,2017,0,TotalPayroll,96436003,2017CincinnatiReds
+Chicago White Sox,0.414,2017,0,Catchers,1098293,2017ChicagoWhiteSox
+Chicago White Sox,0.414,2017,0,Infielders,12987225,2017ChicagoWhiteSox
+Chicago White Sox,0.414,2017,0,Outfielders,4354637,2017ChicagoWhiteSox
+Chicago White Sox,0.414,2017,0,DH,537000,2017ChicagoWhiteSox
+Chicago White Sox,0.414,2017,0,Pitchers,13563228,2017ChicagoWhiteSox
+Chicago White Sox,0.414,2017,0,TotalPayroll,85495238,2017ChicagoWhiteSox
+San Diego Padres,0.438,2017,0,Catchers,1863022,2017SanDiegoPadres
+San Diego Padres,0.438,2017,0,Infielders,5728471,2017SanDiegoPadres
+San Diego Padres,0.438,2017,0,Outfielders,6911212,2017SanDiegoPadres
+San Diego Padres,0.438,2017,0,DH,0,2017SanDiegoPadres
+San Diego Padres,0.438,2017,0,Pitchers,10427719,2017SanDiegoPadres
+San Diego Padres,0.438,2017,0,TotalPayroll,77921678,2017SanDiegoPadres
+Tampa Bay Rays,0.494,2017,0,Catchers,4720613,2017TampaBayRays
+Tampa Bay Rays,0.494,2017,0,Infielders,21601130,2017TampaBayRays
+Tampa Bay Rays,0.494,2017,0,Outfielders,8576878,2017TampaBayRays
+Tampa Bay Rays,0.494,2017,0,DH,2750000,2017TampaBayRays
+Tampa Bay Rays,0.494,2017,0,Pitchers,25370073,2017TampaBayRays
+Tampa Bay Rays,0.494,2017,0,TotalPayroll,77811205,2017TampaBayRays
+Oakland Athletics,0.463,2017,0,Catchers,1088678,2017OaklandAthletics
+Oakland Athletics,0.463,2017,0,Infielders,8921234,2017OaklandAthletics
+Oakland Athletics,0.463,2017,0,Outfielders,11005168,2017OaklandAthletics
+Oakland Athletics,0.463,2017,0,DH,0,2017OaklandAthletics
+Oakland Athletics,0.463,2017,0,Pitchers,10708737,2017OaklandAthletics
+Oakland Athletics,0.463,2017,0,TotalPayroll,73477080,2017OaklandAthletics
+Milwaukee Brewers,0.531,2017,0,Catchers,2786655,2017MilwaukeeBrewers
+Milwaukee Brewers,0.531,2017,0,Infielders,10090989,2017MilwaukeeBrewers
+Milwaukee Brewers,0.531,2017,0,Outfielders,21830344,2017MilwaukeeBrewers
+Milwaukee Brewers,0.531,2017,0,DH,0,2017MilwaukeeBrewers
+Milwaukee Brewers,0.531,2017,0,Pitchers,22870942,2017MilwaukeeBrewers
+Milwaukee Brewers,0.531,2017,0,TotalPayroll,68945179,2017MilwaukeeBrewers
+Los Angeles Dodgers,0.562,2016,3,Catchers,4806373,2016LosAngelesDodgers
+Los Angeles Dodgers,0.562,2016,3,Infielders,34869227,2016LosAngelesDodgers
+Los Angeles Dodgers,0.562,2016,3,Outfielders,38933759,2016LosAngelesDodgers
+Los Angeles Dodgers,0.562,2016,3,DH,0,2016LosAngelesDodgers
+Los Angeles Dodgers,0.562,2016,3,Pitchers,115271652,2016LosAngelesDodgers
+Los Angeles Dodgers,0.562,2016,3,TotalPayroll,266745494,2016LosAngelesDodgers
+New York Yankees,0.519,2016,0,Catchers,17727926,2016NewYorkYankees
+New York Yankees,0.519,2016,0,Infielders,48162109,2016NewYorkYankees
+New York Yankees,0.519,2016,0,Outfielders,36269772,2016NewYorkYankees
+New York Yankees,0.519,2016,0,DH,49914,2016NewYorkYankees
+New York Yankees,0.519,2016,0,Pitchers,57003794,2016NewYorkYankees
+New York Yankees,0.519,2016,0,TotalPayroll,220743376,2016NewYorkYankees
+Boston Red Sox,0.574,2016,2,Catchers,4547384,2016BostonRedSox
+Boston Red Sox,0.574,2016,2,Infielders,18051712,2016BostonRedSox
+Boston Red Sox,0.574,2016,2,Outfielders,7784426,2016BostonRedSox
+Boston Red Sox,0.574,2016,2,DH,38750000,2016BostonRedSox
+Boston Red Sox,0.574,2016,2,Pitchers,95987752,2016BostonRedSox
+Boston Red Sox,0.574,2016,2,TotalPayroll,207758836,2016BostonRedSox
+Detroit Tigers,0.534,2016,0,Catchers,1115736,2016DetroitTigers
+Detroit Tigers,0.534,2016,0,Infielders,20072823,2016DetroitTigers
+Detroit Tigers,0.534,2016,0,Outfielders,28325753,2016DetroitTigers
+Detroit Tigers,0.534,2016,0,DH,24750000,2016DetroitTigers
+Detroit Tigers,0.534,2016,0,Pitchers,88755416,2016DetroitTigers
+Detroit Tigers,0.534,2016,0,TotalPayroll,200179285,2016DetroitTigers
+Chicago Cubs,0.64,2016,5,Catchers,17013005,2016ChicagoCubs
+Chicago Cubs,0.64,2016,5,Infielders,18024499,2016ChicagoCubs
+Chicago Cubs,0.64,2016,5,Outfielders,37611942,2016ChicagoCubs
+Chicago Cubs,0.64,2016,5,DH,0,2016ChicagoCubs
+Chicago Cubs,0.64,2016,5,Pitchers,88729386,2016ChicagoCubs
+Chicago Cubs,0.64,2016,5,TotalPayroll,184352494,2016ChicagoCubs
+San Francisco Giants,0.537,2016,2,Catchers,21377415,2016SanFranciscoGiants
+San Francisco Giants,0.537,2016,2,Infielders,15051491,2016SanFranciscoGiants
+San Francisco Giants,0.537,2016,2,Outfielders,39054858,2016SanFranciscoGiants
+San Francisco Giants,0.537,2016,2,DH,0,2016SanFranciscoGiants
+San Francisco Giants,0.537,2016,2,Pitchers,100693268,2016SanFranciscoGiants
+San Francisco Giants,0.537,2016,2,TotalPayroll,178326844,2016SanFranciscoGiants
+Los Angeles Angels,0.457,2016,0,Catchers,1230526,2016LosAngelesAngels
+Los Angeles Angels,0.457,2016,0,Infielders,14686205,2016LosAngelesAngels
+Los Angeles Angels,0.457,2016,0,Outfielders,20283600,2016LosAngelesAngels
+Los Angeles Angels,0.457,2016,0,DH,25000000,2016LosAngelesAngels
+Los Angeles Angels,0.457,2016,0,Pitchers,28611178,2016LosAngelesAngels
+Los Angeles Angels,0.457,2016,0,TotalPayroll,174295919,2016LosAngelesAngels
+Texas Rangers,0.586,2016,2,Catchers,3165629,2016TexasRangers
+Texas Rangers,0.586,2016,2,Infielders,40194471,2016TexasRangers
+Texas Rangers,0.586,2016,2,Outfielders,29603211,2016TexasRangers
+Texas Rangers,0.586,2016,2,DH,2500000,2016TexasRangers
+Texas Rangers,0.586,2016,2,Pitchers,59261315,2016TexasRangers
+Texas Rangers,0.586,2016,2,TotalPayroll,163021690,2016TexasRangers
+Baltimore Orioles,0.549,2016,1,Catchers,16414487,2016BaltimoreOrioles
+Baltimore Orioles,0.549,2016,1,Infielders,46712561,2016BaltimoreOrioles
+Baltimore Orioles,0.549,2016,1,Outfielders,20660719,2016BaltimoreOrioles
+Baltimore Orioles,0.549,2016,1,DH,9150000,2016BaltimoreOrioles
+Baltimore Orioles,0.549,2016,1,Pitchers,51469896,2016BaltimoreOrioles
+Baltimore Orioles,0.549,2016,1,TotalPayroll,150248832,2016BaltimoreOrioles
+St. Louis Cardinals,0.531,2016,0,Catchers,17027214,2016St.LouisCardinals
+St. Louis Cardinals,0.531,2016,0,Infielders,28802085,2016St.LouisCardinals
+St. Louis Cardinals,0.531,2016,0,Outfielders,1873125,2016St.LouisCardinals
+St. Louis Cardinals,0.531,2016,0,DH,25250000,2016St.LouisCardinals
+St. Louis Cardinals,0.531,2016,0,Pitchers,59837965,2016St.LouisCardinals
+St. Louis Cardinals,0.531,2016,0,TotalPayroll,149355870,2016St.LouisCardinals
+Toronto Blue Jays,0.549,2016,3,Catchers,15941195,2016TorontoBlueJays
+Toronto Blue Jays,0.549,2016,3,Infielders,33843346,2016TorontoBlueJays
+Toronto Blue Jays,0.549,2016,3,Outfielders,23167513,2016TorontoBlueJays
+Toronto Blue Jays,0.549,2016,3,DH,10000000,2016TorontoBlueJays
+Toronto Blue Jays,0.549,2016,3,Pitchers,51380485,2016TorontoBlueJays
+Toronto Blue Jays,0.549,2016,3,TotalPayroll,148385479,2016TorontoBlueJays
+New York Mets,0.537,2016,1,Catchers,1296418,2016NewYorkMets
+New York Mets,0.537,2016,1,Infielders,18474323,2016NewYorkMets
+New York Mets,0.537,2016,1,Outfielders,56631936,2016NewYorkMets
+New York Mets,0.537,2016,1,DH,0,2016NewYorkMets
+New York Mets,0.537,2016,1,Pitchers,25395609,2016NewYorkMets
+New York Mets,0.537,2016,1,TotalPayroll,147738514,2016NewYorkMets
+Seattle Mariners,0.531,2016,0,Catchers,5166308,2016SeattleMariners
+Seattle Mariners,0.531,2016,0,Infielders,41778921,2016SeattleMariners
+Seattle Mariners,0.531,2016,0,Outfielders,19826698,2016SeattleMariners
+Seattle Mariners,0.531,2016,0,DH,14250000,2016SeattleMariners
+Seattle Mariners,0.531,2016,0,Pitchers,50811294,2016SeattleMariners
+Seattle Mariners,0.531,2016,0,TotalPayroll,146536553,2016SeattleMariners
+Kansas City Royals,0.5,2016,0,Catchers,4150000,2016KansasCityRoyals
+Kansas City Royals,0.5,2016,0,Infielders,14920806,2016KansasCityRoyals
+Kansas City Royals,0.5,2016,0,Outfielders,21288066,2016KansasCityRoyals
+Kansas City Royals,0.5,2016,0,DH,9650000,2016KansasCityRoyals
+Kansas City Royals,0.5,2016,0,Pitchers,56340340,2016KansasCityRoyals
+Kansas City Royals,0.5,2016,0,TotalPayroll,141587358,2016KansasCityRoyals
+Washington Nationals,0.586,2016,2,Catchers,1387500,2016WashingtonNationals
+Washington Nationals,0.586,2016,2,Infielders,31623077,2016WashingtonNationals
+Washington Nationals,0.586,2016,2,Outfielders,23741200,2016WashingtonNationals
+Washington Nationals,0.586,2016,2,DH,0,2016WashingtonNationals
+Washington Nationals,0.586,2016,2,Pitchers,62464681,2016WashingtonNationals
+Washington Nationals,0.586,2016,2,TotalPayroll,139383852,2016WashingtonNationals
+Chicago White Sox,0.481,2016,0,Catchers,2838306,2016ChicagoWhiteSox
+Chicago White Sox,0.481,2016,0,Infielders,21174471,2016ChicagoWhiteSox
+Chicago White Sox,0.481,2016,0,Outfielders,19548064,2016ChicagoWhiteSox
+Chicago White Sox,0.481,2016,0,DH,0,2016ChicagoWhiteSox
+Chicago White Sox,0.481,2016,0,Pitchers,45163625,2016ChicagoWhiteSox
+Chicago White Sox,0.481,2016,0,TotalPayroll,129715686,2016ChicagoWhiteSox
+Colorado Rockies,0.463,2016,0,Catchers,3954211,2016ColoradoRockies
+Colorado Rockies,0.463,2016,0,Infielders,13409242,2016ColoradoRockies
+Colorado Rockies,0.463,2016,0,Outfielders,30866791,2016ColoradoRockies
+Colorado Rockies,0.463,2016,0,DH,0,2016ColoradoRockies
+Colorado Rockies,0.463,2016,0,Pitchers,40123797,2016ColoradoRockies
+Colorado Rockies,0.463,2016,0,TotalPayroll,107902280,2016ColoradoRockies
+Cleveland Guardians,0.584,2016,4,Catchers,4006044,2016ClevelandGuardians
+Cleveland Guardians,0.584,2016,4,Infielders,23049521,2016ClevelandGuardians
+Cleveland Guardians,0.584,2016,4,Outfielders,10290065,2016ClevelandGuardians
+Cleveland Guardians,0.584,2016,4,DH,0,2016ClevelandGuardians
+Cleveland Guardians,0.584,2016,4,Pitchers,23938432,2016ClevelandGuardians
+Cleveland Guardians,0.584,2016,4,TotalPayroll,105971268,2016ClevelandGuardians
+Philadelphia Phillies,0.438,2016,0,Catchers,1568158,2016PhiladelphiaPhillies
+Philadelphia Phillies,0.438,2016,0,Infielders,30611304,2016PhiladelphiaPhillies
+Philadelphia Phillies,0.438,2016,0,Outfielders,4416067,2016PhiladelphiaPhillies
+Philadelphia Phillies,0.438,2016,0,DH,0,2016PhiladelphiaPhillies
+Philadelphia Phillies,0.438,2016,0,Pitchers,17202177,2016PhiladelphiaPhillies
+Philadelphia Phillies,0.438,2016,0,TotalPayroll,103898809,2016PhiladelphiaPhillies
+Houston Astros,0.519,2016,0,Catchers,8386087,2016HoustonAstros
+Houston Astros,0.519,2016,0,Infielders,7011014,2016HoustonAstros
+Houston Astros,0.519,2016,0,Outfielders,19226724,2016HoustonAstros
+Houston Astros,0.519,2016,0,DH,0,2016HoustonAstros
+Houston Astros,0.519,2016,0,Pitchers,40817781,2016HoustonAstros
+Houston Astros,0.519,2016,0,TotalPayroll,103328742,2016HoustonAstros
+Pittsburgh Pirates,0.484,2016,0,Catchers,3821668,2016PittsburghPirates
+Pittsburgh Pirates,0.484,2016,0,Infielders,11046733,2016PittsburghPirates
+Pittsburgh Pirates,0.484,2016,0,Outfielders,18848707,2016PittsburghPirates
+Pittsburgh Pirates,0.484,2016,0,DH,0,2016PittsburghPirates
+Pittsburgh Pirates,0.484,2016,0,Pitchers,23594357,2016PittsburghPirates
+Pittsburgh Pirates,0.484,2016,0,TotalPayroll,99518136,2016PittsburghPirates
+Arizona Diamondbacks,0.426,2016,0,Catchers,4544289,2016ArizonaDiamondbacks
+Arizona Diamondbacks,0.426,2016,0,Infielders,12092908,2016ArizonaDiamondbacks
+Arizona Diamondbacks,0.426,2016,0,Outfielders,11541683,2016ArizonaDiamondbacks
+Arizona Diamondbacks,0.426,2016,0,DH,0,2016ArizonaDiamondbacks
+Arizona Diamondbacks,0.426,2016,0,Pitchers,50644123,2016ArizonaDiamondbacks
+Arizona Diamondbacks,0.426,2016,0,TotalPayroll,97874482,2016ArizonaDiamondbacks
+Minnesota Twins,0.364,2016,0,Catchers,6597957,2016MinnesotaTwins
+Minnesota Twins,0.364,2016,0,Infielders,29235462,2016MinnesotaTwins
+Minnesota Twins,0.364,2016,0,Outfielders,1215245,2016MinnesotaTwins
+Minnesota Twins,0.364,2016,0,DH,0,2016MinnesotaTwins
+Minnesota Twins,0.364,2016,0,Pitchers,24116786,2016MinnesotaTwins
+Minnesota Twins,0.364,2016,0,TotalPayroll,97244457,2016MinnesotaTwins
+Atlanta Braves,0.422,2016,0,Catchers,2685619,2016AtlantaBraves
+Atlanta Braves,0.422,2016,0,Infielders,13949445,2016AtlantaBraves
+Atlanta Braves,0.422,2016,0,Outfielders,19144024,2016AtlantaBraves
+Atlanta Braves,0.422,2016,0,DH,0,2016AtlantaBraves
+Atlanta Braves,0.422,2016,0,Pitchers,11138256,2016AtlantaBraves
+Atlanta Braves,0.422,2016,0,TotalPayroll,96080633,2016AtlantaBraves
+Cincinnati Reds,0.42,2016,0,Catchers,1050378,2016CincinnatiReds
+Cincinnati Reds,0.42,2016,0,Infielders,34337027,2016CincinnatiReds
+Cincinnati Reds,0.42,2016,0,Outfielders,1494456,2016CincinnatiReds
+Cincinnati Reds,0.42,2016,0,DH,0,2016CincinnatiReds
+Cincinnati Reds,0.42,2016,0,Pitchers,26901804,2016CincinnatiReds
+Cincinnati Reds,0.42,2016,0,TotalPayroll,88626437,2016CincinnatiReds
+San Diego Padres,0.42,2016,0,Catchers,3185794,2016SanDiegoPadres
+San Diego Padres,0.42,2016,0,Infielders,4385081,2016SanDiegoPadres
+San Diego Padres,0.42,2016,0,Outfielders,7832983,2016SanDiegoPadres
+San Diego Padres,0.42,2016,0,DH,0,2016SanDiegoPadres
+San Diego Padres,0.42,2016,0,Pitchers,6177034,2016SanDiegoPadres
+San Diego Padres,0.42,2016,0,TotalPayroll,83507657,2016SanDiegoPadres
+Oakland Athletics,0.426,2016,0,Catchers,924039,2016OaklandAthletics
+Oakland Athletics,0.426,2016,0,Infielders,7086167,2016OaklandAthletics
+Oakland Athletics,0.426,2016,0,Outfielders,1275983,2016OaklandAthletics
+Oakland Athletics,0.426,2016,0,DH,0,2016OaklandAthletics
+Oakland Athletics,0.426,2016,0,Pitchers,18567962,2016OaklandAthletics
+Oakland Athletics,0.426,2016,0,TotalPayroll,82879088,2016OaklandAthletics
+Miami Marlins,0.491,2016,0,Catchers,2032500,2016MiamiMarlins
+Miami Marlins,0.491,2016,0,Infielders,12933659,2016MiamiMarlins
+Miami Marlins,0.491,2016,0,Outfielders,12966051,2016MiamiMarlins
+Miami Marlins,0.491,2016,0,DH,0,2016MiamiMarlins
+Miami Marlins,0.491,2016,0,Pitchers,32909828,2016MiamiMarlins
+Miami Marlins,0.491,2016,0,TotalPayroll,77715306,2016MiamiMarlins
+Tampa Bay Rays,0.42,2016,0,Catchers,823339,2016TampaBayRays
+Tampa Bay Rays,0.42,2016,0,Infielders,15773388,2016TampaBayRays
+Tampa Bay Rays,0.42,2016,0,Outfielders,1664475,2016TampaBayRays
+Tampa Bay Rays,0.42,2016,0,DH,0,2016TampaBayRays
+Tampa Bay Rays,0.42,2016,0,Pitchers,17964798,2016TampaBayRays
+Tampa Bay Rays,0.42,2016,0,TotalPayroll,63908549,2016TampaBayRays
+Milwaukee Brewers,0.451,2016,0,Catchers,1410619,2016MilwaukeeBrewers
+Milwaukee Brewers,0.451,2016,0,Infielders,3919688,2016MilwaukeeBrewers
+Milwaukee Brewers,0.451,2016,0,Outfielders,22076636,2016MilwaukeeBrewers
+Milwaukee Brewers,0.451,2016,0,DH,0,2016MilwaukeeBrewers
+Milwaukee Brewers,0.451,2016,0,Pitchers,22057670,2016MilwaukeeBrewers
+Milwaukee Brewers,0.451,2016,0,TotalPayroll,62161191,2016MilwaukeeBrewers
+Los Angeles Dodgers,0.568,2015,2,Catchers,5106620,2015LosAngelesDodgers
+Los Angeles Dodgers,0.568,2015,2,Infielders,39887043,2015LosAngelesDodgers
+Los Angeles Dodgers,0.568,2015,2,Outfielders,64033761,2015LosAngelesDodgers
+Los Angeles Dodgers,0.568,2015,2,DH,0,2015LosAngelesDodgers
+Los Angeles Dodgers,0.568,2015,2,Pitchers,90950264,2015LosAngelesDodgers
+Los Angeles Dodgers,0.568,2015,2,TotalPayroll,302735080,2015LosAngelesDodgers
+New York Yankees,0.537,2015,1,Catchers,18131037,2015NewYorkYankees
+New York Yankees,0.537,2015,1,Infielders,22746739,2015NewYorkYankees
+New York Yankees,0.537,2015,1,Outfielders,36813377,2015NewYorkYankees
+New York Yankees,0.537,2015,1,DH,37000000,2015NewYorkYankees
+New York Yankees,0.537,2015,1,Pitchers,72580288,2015NewYorkYankees
+New York Yankees,0.537,2015,1,TotalPayroll,222528373,2015NewYorkYankees
+San Francisco Giants,0.519,2015,0,Catchers,17472025,2015SanFranciscoGiants
+San Francisco Giants,0.519,2015,0,Infielders,7864727,2015SanFranciscoGiants
+San Francisco Giants,0.519,2015,0,Outfielders,26270395,2015SanFranciscoGiants
+San Francisco Giants,0.519,2015,0,DH,0,2015SanFranciscoGiants
+San Francisco Giants,0.519,2015,0,Pitchers,81502238,2015SanFranciscoGiants
+San Francisco Giants,0.519,2015,0,TotalPayroll,186413630,2015SanFranciscoGiants
+Boston Red Sox,0.481,2015,0,Catchers,4325881,2015BostonRedSox
+Boston Red Sox,0.481,2015,0,Infielders,31904957,2015BostonRedSox
+Boston Red Sox,0.481,2015,0,Outfielders,17542714,2015BostonRedSox
+Boston Red Sox,0.481,2015,0,DH,16000000,2015BostonRedSox
+Boston Red Sox,0.481,2015,0,Pitchers,25256894,2015BostonRedSox
+Boston Red Sox,0.481,2015,0,TotalPayroll,183481478,2015BostonRedSox
+Washington Nationals,0.512,2015,0,Catchers,4841516,2015WashingtonNationals
+Washington Nationals,0.512,2015,0,Infielders,25111382,2015WashingtonNationals
+Washington Nationals,0.512,2015,0,Outfielders,36785012,2015WashingtonNationals
+Washington Nationals,0.512,2015,0,DH,0,2015WashingtonNationals
+Washington Nationals,0.512,2015,0,Pitchers,79271893,2015WashingtonNationals
+Washington Nationals,0.512,2015,0,TotalPayroll,165655095,2015WashingtonNationals
+Detroit Tigers,0.46,2015,0,Catchers,6148770,2015DetroitTigers
+Detroit Tigers,0.46,2015,0,Infielders,40954650,2015DetroitTigers
+Detroit Tigers,0.46,2015,0,Outfielders,5341105,2015DetroitTigers
+Detroit Tigers,0.46,2015,0,DH,17000000,2015DetroitTigers
+Detroit Tigers,0.46,2015,0,Pitchers,40434811,2015DetroitTigers
+Detroit Tigers,0.46,2015,0,TotalPayroll,162160921,2015DetroitTigers
+Texas Rangers,0.543,2015,2,Catchers,1922182,2015TexasRangers
+Texas Rangers,0.543,2015,2,Infielders,36520461,2015TexasRangers
+Texas Rangers,0.543,2015,2,Outfielders,23020957,2015TexasRangers
+Texas Rangers,0.543,2015,2,DH,24050000,2015TexasRangers
+Texas Rangers,0.543,2015,2,Pitchers,39012276,2015TexasRangers
+Texas Rangers,0.543,2015,2,TotalPayroll,156445607,2015TexasRangers
+Los Angeles Angels,0.525,2015,0,Catchers,6040819,2015LosAngelesAngels
+Los Angeles Angels,0.525,2015,0,Infielders,17199687,2015LosAngelesAngels
+Los Angeles Angels,0.525,2015,0,Outfielders,15619315,2015LosAngelesAngels
+Los Angeles Angels,0.525,2015,0,DH,26312295,2015LosAngelesAngels
+Los Angeles Angels,0.525,2015,0,Pitchers,41339967,2015LosAngelesAngels
+Los Angeles Angels,0.525,2015,0,TotalPayroll,151348162,2015LosAngelesAngels
+Philadelphia Phillies,0.389,2015,0,Catchers,9099516,2015PhiladelphiaPhillies
+Philadelphia Phillies,0.389,2015,0,Infielders,27452556,2015PhiladelphiaPhillies
+Philadelphia Phillies,0.389,2015,0,Outfielders,4712635,2015PhiladelphiaPhillies
+Philadelphia Phillies,0.389,2015,0,DH,0,2015PhiladelphiaPhillies
+Philadelphia Phillies,0.389,2015,0,Pitchers,11535624,2015PhiladelphiaPhillies
+Philadelphia Phillies,0.389,2015,0,TotalPayroll,141722639,2015PhiladelphiaPhillies
+Toronto Blue Jays,0.574,2015,3,Catchers,13750000,2015TorontoBlueJays
+Toronto Blue Jays,0.574,2015,3,Infielders,15342708,2015TorontoBlueJays
+Toronto Blue Jays,0.574,2015,3,Outfielders,16526029,2015TorontoBlueJays
+Toronto Blue Jays,0.574,2015,3,DH,10000000,2015TorontoBlueJays
+Toronto Blue Jays,0.574,2015,3,Pitchers,50807367,2015TorontoBlueJays
+Toronto Blue Jays,0.574,2015,3,TotalPayroll,138309664,2015TorontoBlueJays
+Chicago Cubs,0.599,2015,3,Catchers,14580423,2015ChicagoCubs
+Chicago Cubs,0.599,2015,3,Infielders,14181109,2015ChicagoCubs
+Chicago Cubs,0.599,2015,3,Outfielders,18840657,2015ChicagoCubs
+Chicago Cubs,0.599,2015,3,DH,0,2015ChicagoCubs
+Chicago Cubs,0.599,2015,3,Pitchers,59050195,2015ChicagoCubs
+Chicago Cubs,0.599,2015,3,TotalPayroll,132993810,2015ChicagoCubs
+St. Louis Cardinals,0.617,2015,2,Catchers,16346774,2015St.LouisCardinals
+St. Louis Cardinals,0.617,2015,2,Infielders,24503486,2015St.LouisCardinals
+St. Louis Cardinals,0.617,2015,2,Outfielders,14976024,2015St.LouisCardinals
+St. Louis Cardinals,0.617,2015,2,DH,19404781,2015St.LouisCardinals
+St. Louis Cardinals,0.617,2015,2,Pitchers,53583722,2015St.LouisCardinals
+St. Louis Cardinals,0.617,2015,2,TotalPayroll,132178951,2015St.LouisCardinals
+Kansas City Royals,0.59,2015,5,Catchers,2756718,2015KansasCityRoyals
+Kansas City Royals,0.59,2015,5,Infielders,22314531,2015KansasCityRoyals
+Kansas City Royals,0.59,2015,5,Outfielders,28390355,2015KansasCityRoyals
+Kansas City Royals,0.59,2015,5,DH,7250000,2015KansasCityRoyals
+Kansas City Royals,0.59,2015,5,Pitchers,51029287,2015KansasCityRoyals
+Kansas City Royals,0.59,2015,5,TotalPayroll,126529835,2015KansasCityRoyals
+Seattle Mariners,0.469,2015,0,Catchers,836391,2015SeattleMariners
+Seattle Mariners,0.469,2015,0,Infielders,29207859,2015SeattleMariners
+Seattle Mariners,0.469,2015,0,Outfielders,6468674,2015SeattleMariners
+Seattle Mariners,0.469,2015,0,DH,21800409,2015SeattleMariners
+Seattle Mariners,0.469,2015,0,Pitchers,37561449,2015SeattleMariners
+Seattle Mariners,0.469,2015,0,TotalPayroll,126045473,2015SeattleMariners
+Chicago White Sox,0.469,2015,0,Catchers,4175000,2015ChicagoWhiteSox
+Chicago White Sox,0.469,2015,0,Infielders,21405530,2015ChicagoWhiteSox
+Chicago White Sox,0.469,2015,0,Outfielders,2382632,2015ChicagoWhiteSox
+Chicago White Sox,0.469,2015,0,DH,12000000,2015ChicagoWhiteSox
+Chicago White Sox,0.469,2015,0,Pitchers,54402573,2015ChicagoWhiteSox
+Chicago White Sox,0.469,2015,0,TotalPayroll,118875487,2015ChicagoWhiteSox
+Baltimore Orioles,0.5,2015,0,Catchers,8989142,2015BaltimoreOrioles
+Baltimore Orioles,0.5,2015,0,Infielders,25876755,2015BaltimoreOrioles
+Baltimore Orioles,0.5,2015,0,Outfielders,20701243,2015BaltimoreOrioles
+Baltimore Orioles,0.5,2015,0,DH,36051,2015BaltimoreOrioles
+Baltimore Orioles,0.5,2015,0,Pitchers,38355124,2015BaltimoreOrioles
+Baltimore Orioles,0.5,2015,0,TotalPayroll,117784476,2015BaltimoreOrioles
+Cincinnati Reds,0.395,2015,0,Catchers,1976830,2015CincinnatiReds
+Cincinnati Reds,0.395,2015,0,Infielders,30071693,2015CincinnatiReds
+Cincinnati Reds,0.395,2015,0,Outfielders,16560981,2015CincinnatiReds
+Cincinnati Reds,0.395,2015,0,DH,0,2015CincinnatiReds
+Cincinnati Reds,0.395,2015,0,Pitchers,19836055,2015CincinnatiReds
+Cincinnati Reds,0.395,2015,0,TotalPayroll,116333097,2015CincinnatiReds
+New York Mets,0.556,2015,4,Catchers,1511914,2015NewYorkMets
+New York Mets,0.556,2015,4,Infielders,38974213,2015NewYorkMets
+New York Mets,0.556,2015,4,Outfielders,29484624,2015NewYorkMets
+New York Mets,0.556,2015,4,DH,0,2015NewYorkMets
+New York Mets,0.556,2015,4,Pitchers,32509509,2015NewYorkMets
+New York Mets,0.556,2015,4,TotalPayroll,115698927,2015NewYorkMets
+Atlanta Braves,0.414,2015,0,Catchers,3163688,2015AtlantaBraves
+Atlanta Braves,0.414,2015,0,Infielders,12638649,2015AtlantaBraves
+Atlanta Braves,0.414,2015,0,Outfielders,33513413,2015AtlantaBraves
+Atlanta Braves,0.414,2015,0,DH,0,2015AtlantaBraves
+Atlanta Braves,0.414,2015,0,Pitchers,5707049,2015AtlantaBraves
+Atlanta Braves,0.414,2015,0,TotalPayroll,110838389,2015AtlantaBraves
+San Diego Padres,0.457,2015,0,Catchers,1058046,2015SanDiegoPadres
+San Diego Padres,0.457,2015,0,Infielders,6349672,2015SanDiegoPadres
+San Diego Padres,0.457,2015,0,Outfielders,32982963,2015SanDiegoPadres
+San Diego Padres,0.457,2015,0,DH,0,2015SanDiegoPadres
+San Diego Padres,0.457,2015,0,Pitchers,52821574,2015SanDiegoPadres
+San Diego Padres,0.457,2015,0,TotalPayroll,107915272,2015SanDiegoPadres
+Colorado Rockies,0.42,2015,0,Catchers,3227568,2015ColoradoRockies
+Colorado Rockies,0.42,2015,0,Infielders,21680593,2015ColoradoRockies
+Colorado Rockies,0.42,2015,0,Outfielders,17896821,2015ColoradoRockies
+Colorado Rockies,0.42,2015,0,DH,0,2015ColoradoRockies
+Colorado Rockies,0.42,2015,0,Pitchers,32125666,2015ColoradoRockies
+Colorado Rockies,0.42,2015,0,TotalPayroll,107102051,2015ColoradoRockies
+Minnesota Twins,0.512,2015,0,Catchers,6515108,2015MinnesotaTwins
+Minnesota Twins,0.512,2015,0,Infielders,31934398,2015MinnesotaTwins
+Minnesota Twins,0.512,2015,0,Outfielders,12338618,2015MinnesotaTwins
+Minnesota Twins,0.512,2015,0,DH,0,2015MinnesotaTwins
+Minnesota Twins,0.512,2015,0,Pitchers,50660023,2015MinnesotaTwins
+Minnesota Twins,0.512,2015,0,TotalPayroll,106431818,2015MinnesotaTwins
+Pittsburgh Pirates,0.605,2015,1,Catchers,2304016,2015PittsburghPirates
+Pittsburgh Pirates,0.605,2015,1,Infielders,22961824,2015PittsburghPirates
+Pittsburgh Pirates,0.605,2015,1,Outfielders,15607920,2015PittsburghPirates
+Pittsburgh Pirates,0.605,2015,1,DH,0,2015PittsburghPirates
+Pittsburgh Pirates,0.605,2015,1,Pitchers,41030270,2015PittsburghPirates
+Pittsburgh Pirates,0.605,2015,1,TotalPayroll,99435606,2015PittsburghPirates
+Milwaukee Brewers,0.42,2015,0,Catchers,4297103,2015MilwaukeeBrewers
+Milwaukee Brewers,0.42,2015,0,Infielders,9292591,2015MilwaukeeBrewers
+Milwaukee Brewers,0.42,2015,0,Outfielders,14816790,2015MilwaukeeBrewers
+Milwaukee Brewers,0.42,2015,0,DH,0,2015MilwaukeeBrewers
+Milwaukee Brewers,0.42,2015,0,Pitchers,30366230,2015MilwaukeeBrewers
+Milwaukee Brewers,0.42,2015,0,TotalPayroll,94010873,2015MilwaukeeBrewers
+Houston Astros,0.531,2015,2,Catchers,5701336,2015HoustonAstros
+Houston Astros,0.531,2015,2,Infielders,19825258,2015HoustonAstros
+Houston Astros,0.531,2015,2,Outfielders,13401039,2015HoustonAstros
+Houston Astros,0.531,2015,2,DH,0,2015HoustonAstros
+Houston Astros,0.531,2015,2,Pitchers,25890765,2015HoustonAstros
+Houston Astros,0.531,2015,2,TotalPayroll,81450835,2015HoustonAstros
+Oakland Athletics,0.42,2015,0,Catchers,1152841,2015OaklandAthletics
+Oakland Athletics,0.42,2015,0,Infielders,4291023,2015OaklandAthletics
+Oakland Athletics,0.42,2015,0,Outfielders,19851203,2015OaklandAthletics
+Oakland Athletics,0.42,2015,0,DH,6666666,2015OaklandAthletics
+Oakland Athletics,0.42,2015,0,Pitchers,9935717,2015OaklandAthletics
+Oakland Athletics,0.42,2015,0,TotalPayroll,80376830,2015OaklandAthletics
+Cleveland Guardians,0.503,2015,0,Catchers,1619665,2015ClevelandGuardians
+Cleveland Guardians,0.503,2015,0,Infielders,16888526,2015ClevelandGuardians
+Cleveland Guardians,0.503,2015,0,Outfielders,11097639,2015ClevelandGuardians
+Cleveland Guardians,0.503,2015,0,DH,0,2015ClevelandGuardians
+Cleveland Guardians,0.503,2015,0,Pitchers,15915147,2015ClevelandGuardians
+Cleveland Guardians,0.503,2015,0,TotalPayroll,77404413,2015ClevelandGuardians
+Arizona Diamondbacks,0.488,2015,0,Catchers,2346433,2015ArizonaDiamondbacks
+Arizona Diamondbacks,0.488,2015,0,Infielders,17228516,2015ArizonaDiamondbacks
+Arizona Diamondbacks,0.488,2015,0,Outfielders,7162776,2015ArizonaDiamondbacks
+Arizona Diamondbacks,0.488,2015,0,DH,0,2015ArizonaDiamondbacks
+Arizona Diamondbacks,0.488,2015,0,Pitchers,18405008,2015ArizonaDiamondbacks
+Arizona Diamondbacks,0.488,2015,0,TotalPayroll,76781801,2015ArizonaDiamondbacks
+Tampa Bay Rays,0.494,2015,0,Catchers,1291516,2015TampaBayRays
+Tampa Bay Rays,0.494,2015,0,Infielders,28916084,2015TampaBayRays
+Tampa Bay Rays,0.494,2015,0,Outfielders,6431133,2015TampaBayRays
+Tampa Bay Rays,0.494,2015,0,DH,0,2015TampaBayRays
+Tampa Bay Rays,0.494,2015,0,Pitchers,15454215,2015TampaBayRays
+Tampa Bay Rays,0.494,2015,0,TotalPayroll,76582652,2015TampaBayRays
+Miami Marlins,0.438,2015,0,Catchers,1982540,2015MiamiMarlins
+Miami Marlins,0.438,2015,0,Infielders,14526807,2015MiamiMarlins
+Miami Marlins,0.438,2015,0,Outfielders,4470218,2015MiamiMarlins
+Miami Marlins,0.438,2015,0,DH,0,2015MiamiMarlins
+Miami Marlins,0.438,2015,0,Pitchers,7191579,2015MiamiMarlins
+Miami Marlins,0.438,2015,0,TotalPayroll,76090525,2015MiamiMarlins
+Los Angeles Dodgers,0.58,2014,2,Catchers,4250000,2014LosAngelesDodgers
+Los Angeles Dodgers,0.58,2014,2,Infielders,32590693,2014LosAngelesDodgers
+Los Angeles Dodgers,0.58,2014,2,Outfielders,68718264,2014LosAngelesDodgers
+Los Angeles Dodgers,0.58,2014,2,DH,16000000,2014LosAngelesDodgers
+Los Angeles Dodgers,0.58,2014,2,Pitchers,112398861,2014LosAngelesDodgers
+Los Angeles Dodgers,0.58,2014,2,TotalPayroll,242157818,2014LosAngelesDodgers
+New York Yankees,0.519,2014,0,Catchers,18047479,2014NewYorkYankees
+New York Yankees,0.519,2014,0,Infielders,47003277,2014NewYorkYankees
+New York Yankees,0.519,2014,0,Outfielders,33316627,2014NewYorkYankees
+New York Yankees,0.519,2014,0,DH,18868852,2014NewYorkYankees
+New York Yankees,0.519,2014,0,Pitchers,80784229,2014NewYorkYankees
+New York Yankees,0.519,2014,0,TotalPayroll,213798031,2014NewYorkYankees
+Philadelphia Phillies,0.451,2014,0,Catchers,9706967,2014PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2014,0,Infielders,52682239,2014PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2014,0,Outfielders,12118579,2014PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2014,0,DH,0,2014PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2014,0,Pitchers,70615229,2014PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2014,0,TotalPayroll,175061605,2014PhiladelphiaPhillies
+Detroit Tigers,0.556,2014,2,Catchers,4731234,2014DetroitTigers
+Detroit Tigers,0.556,2014,2,Infielders,40970939,2014DetroitTigers
+Detroit Tigers,0.556,2014,2,Outfielders,21993851,2014DetroitTigers
+Detroit Tigers,0.556,2014,2,DH,12500000,2014DetroitTigers
+Detroit Tigers,0.556,2014,2,Pitchers,67884765,2014DetroitTigers
+Detroit Tigers,0.556,2014,2,TotalPayroll,172143106,2014DetroitTigers
+Boston Red Sox,0.438,2014,0,Catchers,3700599,2014BostonRedSox
+Boston Red Sox,0.438,2014,0,Infielders,31507089,2014BostonRedSox
+Boston Red Sox,0.438,2014,0,Outfielders,18758610,2014BostonRedSox
+Boston Red Sox,0.438,2014,0,DH,15500000,2014BostonRedSox
+Boston Red Sox,0.438,2014,0,Pitchers,25951673,2014BostonRedSox
+Boston Red Sox,0.438,2014,0,TotalPayroll,170095758,2014BostonRedSox
+Los Angeles Angels,0.607,2014,2,Catchers,5566270,2014LosAngelesAngels
+Los Angeles Angels,0.607,2014,2,Infielders,16431284,2014LosAngelesAngels
+Los Angeles Angels,0.607,2014,2,Outfielders,30730189,2014LosAngelesAngels
+Los Angeles Angels,0.607,2014,2,DH,23000000,2014LosAngelesAngels
+Los Angeles Angels,0.607,2014,2,Pitchers,56565759,2014LosAngelesAngels
+Los Angeles Angels,0.607,2014,2,TotalPayroll,165244781,2014LosAngelesAngels
+San Francisco Giants,0.543,2014,5,Catchers,12017372,2014SanFranciscoGiants
+San Francisco Giants,0.543,2014,5,Infielders,20940142,2014SanFranciscoGiants
+San Francisco Giants,0.543,2014,5,Outfielders,35431785,2014SanFranciscoGiants
+San Francisco Giants,0.543,2014,5,DH,0,2014SanFranciscoGiants
+San Francisco Giants,0.543,2014,5,Pitchers,84346034,2014SanFranciscoGiants
+San Francisco Giants,0.543,2014,5,TotalPayroll,160336782,2014SanFranciscoGiants
+Washington Nationals,0.593,2014,2,Catchers,3288655,2014WashingtonNationals
+Washington Nationals,0.593,2014,2,Infielders,28399398,2014WashingtonNationals
+Washington Nationals,0.593,2014,2,Outfielders,44120333,2014WashingtonNationals
+Washington Nationals,0.593,2014,2,DH,12000000,2014WashingtonNationals
+Washington Nationals,0.593,2014,2,Pitchers,55078824,2014WashingtonNationals
+Washington Nationals,0.593,2014,2,TotalPayroll,143278577,2014WashingtonNationals
+Toronto Blue Jays,0.512,2014,0,Catchers,4323770,2014TorontoBlueJays
+Toronto Blue Jays,0.512,2014,0,Infielders,24565732,2014TorontoBlueJays
+Toronto Blue Jays,0.512,2014,0,Outfielders,29840872,2014TorontoBlueJays
+Toronto Blue Jays,0.512,2014,0,DH,9000000,2014TorontoBlueJays
+Toronto Blue Jays,0.512,2014,0,Pitchers,54395587,2014TorontoBlueJays
+Toronto Blue Jays,0.512,2014,0,TotalPayroll,141812172,2014TorontoBlueJays
+Texas Rangers,0.414,2014,0,Catchers,502232,2014TexasRangers
+Texas Rangers,0.414,2014,0,Infielders,31018452,2014TexasRangers
+Texas Rangers,0.414,2014,0,Outfielders,34063217,2014TexasRangers
+Texas Rangers,0.414,2014,0,DH,24000000,2014TexasRangers
+Texas Rangers,0.414,2014,0,Pitchers,40725339,2014TexasRangers
+Texas Rangers,0.414,2014,0,TotalPayroll,139630583,2014TexasRangers
+St. Louis Cardinals,0.556,2014,3,Catchers,15988539,2014St.LouisCardinals
+St. Louis Cardinals,0.556,2014,3,Infielders,24543780,2014St.LouisCardinals
+St. Louis Cardinals,0.556,2014,3,Outfielders,5630016,2014St.LouisCardinals
+St. Louis Cardinals,0.556,2014,3,DH,17000000,2014St.LouisCardinals
+St. Louis Cardinals,0.556,2014,3,Pitchers,51478249,2014St.LouisCardinals
+St. Louis Cardinals,0.556,2014,3,TotalPayroll,121340470,2014St.LouisCardinals
+Atlanta Braves,0.488,2014,0,Catchers,6020250,2014AtlantaBraves
+Atlanta Braves,0.488,2014,0,Infielders,13823172,2014AtlantaBraves
+Atlanta Braves,0.488,2014,0,Outfielders,35328005,2014AtlantaBraves
+Atlanta Braves,0.488,2014,0,DH,0,2014AtlantaBraves
+Atlanta Braves,0.488,2014,0,Pitchers,47541877,2014AtlantaBraves
+Atlanta Braves,0.488,2014,0,TotalPayroll,116865707,2014AtlantaBraves
+Seattle Mariners,0.537,2014,0,Catchers,730875,2014SeattleMariners
+Seattle Mariners,0.537,2014,0,Infielders,32237700,2014SeattleMariners
+Seattle Mariners,0.537,2014,0,Outfielders,12395626,2014SeattleMariners
+Seattle Mariners,0.537,2014,0,DH,6143442,2014SeattleMariners
+Seattle Mariners,0.537,2014,0,Pitchers,48822417,2014SeattleMariners
+Seattle Mariners,0.537,2014,0,TotalPayroll,115534174,2014SeattleMariners
+Baltimore Orioles,0.593,2014,3,Catchers,8849807,2014BaltimoreOrioles
+Baltimore Orioles,0.593,2014,3,Infielders,21299773,2014BaltimoreOrioles
+Baltimore Orioles,0.593,2014,3,Outfielders,32360636,2014BaltimoreOrioles
+Baltimore Orioles,0.593,2014,3,DH,8000000,2014BaltimoreOrioles
+Baltimore Orioles,0.593,2014,3,Pitchers,37960102,2014BaltimoreOrioles
+Baltimore Orioles,0.593,2014,3,TotalPayroll,113562943,2014BaltimoreOrioles
+Cincinnati Reds,0.469,2014,0,Catchers,1596721,2014CincinnatiReds
+Cincinnati Reds,0.469,2014,0,Infielders,26577185,2014CincinnatiReds
+Cincinnati Reds,0.469,2014,0,Outfielders,22949206,2014CincinnatiReds
+Cincinnati Reds,0.469,2014,0,DH,0,2014CincinnatiReds
+Cincinnati Reds,0.469,2014,0,Pitchers,48106819,2014CincinnatiReds
+Cincinnati Reds,0.469,2014,0,TotalPayroll,113351318,2014CincinnatiReds
+Milwaukee Brewers,0.506,2014,0,Catchers,2927000,2014MilwaukeeBrewers
+Milwaukee Brewers,0.506,2014,0,Infielders,33589637,2014MilwaukeeBrewers
+Milwaukee Brewers,0.506,2014,0,Outfielders,20648163,2014MilwaukeeBrewers
+Milwaukee Brewers,0.506,2014,0,DH,0,2014MilwaukeeBrewers
+Milwaukee Brewers,0.506,2014,0,Pitchers,51009789,2014MilwaukeeBrewers
+Milwaukee Brewers,0.506,2014,0,TotalPayroll,110577046,2014MilwaukeeBrewers
+Arizona Diamondbacks,0.395,2014,0,Catchers,10540251,2014ArizonaDiamondbacks
+Arizona Diamondbacks,0.395,2014,0,Infielders,17305778,2014ArizonaDiamondbacks
+Arizona Diamondbacks,0.395,2014,0,Outfielders,11732682,2014ArizonaDiamondbacks
+Arizona Diamondbacks,0.395,2014,0,DH,4800000,2014ArizonaDiamondbacks
+Arizona Diamondbacks,0.395,2014,0,Pitchers,23996877,2014ArizonaDiamondbacks
+Arizona Diamondbacks,0.395,2014,0,TotalPayroll,106343190,2014ArizonaDiamondbacks
+Kansas City Royals,0.549,2014,4,Catchers,1772854,2014KansasCityRoyals
+Kansas City Royals,0.549,2014,4,Infielders,12462443,2014KansasCityRoyals
+Kansas City Royals,0.549,2014,4,Outfielders,16864969,2014KansasCityRoyals
+Kansas City Royals,0.549,2014,4,DH,9000000,2014KansasCityRoyals
+Kansas City Royals,0.549,2014,4,Pitchers,50436582,2014KansasCityRoyals
+Kansas City Royals,0.549,2014,4,TotalPayroll,98558300,2014KansasCityRoyals
+Colorado Rockies,0.407,2014,0,Catchers,957649,2014ColoradoRockies
+Colorado Rockies,0.407,2014,0,Infielders,23564398,2014ColoradoRockies
+Colorado Rockies,0.407,2014,0,Outfielders,28112537,2014ColoradoRockies
+Colorado Rockies,0.407,2014,0,DH,0,2014ColoradoRockies
+Colorado Rockies,0.407,2014,0,Pitchers,43821999,2014ColoradoRockies
+Colorado Rockies,0.407,2014,0,TotalPayroll,96772365,2014ColoradoRockies
+New York Mets,0.488,2014,0,Catchers,963047,2014NewYorkMets
+New York Mets,0.488,2014,0,Infielders,29431942,2014NewYorkMets
+New York Mets,0.488,2014,0,Outfielders,15766471,2014NewYorkMets
+New York Mets,0.488,2014,0,DH,0,2014NewYorkMets
+New York Mets,0.488,2014,0,Pitchers,27514075,2014NewYorkMets
+New York Mets,0.488,2014,0,TotalPayroll,94478037,2014NewYorkMets
+Oakland Athletics,0.543,2014,1,Catchers,1434508,2014OaklandAthletics
+Oakland Athletics,0.543,2014,1,Infielders,14100846,2014OaklandAthletics
+Oakland Athletics,0.543,2014,1,Outfielders,15803469,2014OaklandAthletics
+Oakland Athletics,0.543,2014,1,DH,5350000,2014OaklandAthletics
+Oakland Athletics,0.543,2014,1,Pitchers,28441759,2014OaklandAthletics
+Oakland Athletics,0.543,2014,1,TotalPayroll,92888412,2014OaklandAthletics
+Chicago Cubs,0.451,2014,0,Catchers,1478770,2014ChicagoCubs
+Chicago Cubs,0.451,2014,0,Infielders,9732800,2014ChicagoCubs
+Chicago Cubs,0.451,2014,0,Outfielders,8165395,2014ChicagoCubs
+Chicago Cubs,0.451,2014,0,DH,0,2014ChicagoCubs
+Chicago Cubs,0.451,2014,0,Pitchers,34227505,2014ChicagoCubs
+Chicago Cubs,0.451,2014,0,TotalPayroll,89539741,2014ChicagoCubs
+Chicago White Sox,0.451,2014,0,Catchers,1523770,2014ChicagoWhiteSox
+Chicago White Sox,0.451,2014,0,Infielders,21705933,2014ChicagoWhiteSox
+Chicago White Sox,0.451,2014,0,Outfielders,5300903,2014ChicagoWhiteSox
+Chicago White Sox,0.451,2014,0,DH,0,2014ChicagoWhiteSox
+Chicago White Sox,0.451,2014,0,Pitchers,31775291,2014ChicagoWhiteSox
+Chicago White Sox,0.451,2014,0,TotalPayroll,89297302,2014ChicagoWhiteSox
+Minnesota Twins,0.432,2014,0,Catchers,4095818,2014MinnesotaTwins
+Minnesota Twins,0.432,2014,0,Infielders,27681954,2014MinnesotaTwins
+Minnesota Twins,0.432,2014,0,Outfielders,1513919,2014MinnesotaTwins
+Minnesota Twins,0.432,2014,0,DH,0,2014MinnesotaTwins
+Minnesota Twins,0.432,2014,0,Pitchers,38848757,2014MinnesotaTwins
+Minnesota Twins,0.432,2014,0,TotalPayroll,87494478,2014MinnesotaTwins
+San Diego Padres,0.479,2014,0,Catchers,1372170,2014SanDiegoPadres
+San Diego Padres,0.479,2014,0,Infielders,5365596,2014SanDiegoPadres
+San Diego Padres,0.479,2014,0,Outfielders,23752261,2014SanDiegoPadres
+San Diego Padres,0.479,2014,0,DH,0,2014SanDiegoPadres
+San Diego Padres,0.479,2014,0,Pitchers,36806323,2014SanDiegoPadres
+San Diego Padres,0.479,2014,0,TotalPayroll,85001967,2014SanDiegoPadres
+Cleveland Guardians,0.525,2014,0,Catchers,878523,2014ClevelandGuardians
+Cleveland Guardians,0.525,2014,0,Infielders,9812785,2014ClevelandGuardians
+Cleveland Guardians,0.525,2014,0,Outfielders,34069459,2014ClevelandGuardians
+Cleveland Guardians,0.525,2014,0,DH,6500000,2014ClevelandGuardians
+Cleveland Guardians,0.525,2014,0,Pitchers,9459879,2014ClevelandGuardians
+Cleveland Guardians,0.525,2014,0,TotalPayroll,84481929,2014ClevelandGuardians
+Pittsburgh Pirates,0.543,2014,1,Catchers,10713327,2014PittsburghPirates
+Pittsburgh Pirates,0.543,2014,1,Infielders,18588062,2014PittsburghPirates
+Pittsburgh Pirates,0.543,2014,1,Outfielders,9930053,2014PittsburghPirates
+Pittsburgh Pirates,0.543,2014,1,DH,0,2014PittsburghPirates
+Pittsburgh Pirates,0.543,2014,1,Pitchers,29651997,2014PittsburghPirates
+Pittsburgh Pirates,0.543,2014,1,TotalPayroll,76974115,2014PittsburghPirates
+Tampa Bay Rays,0.475,2014,0,Catchers,4683060,2014TampaBayRays
+Tampa Bay Rays,0.475,2014,0,Infielders,25437062,2014TampaBayRays
+Tampa Bay Rays,0.475,2014,0,Outfielders,9940749,2014TampaBayRays
+Tampa Bay Rays,0.475,2014,0,DH,0,2014TampaBayRays
+Tampa Bay Rays,0.475,2014,0,Pitchers,23643836,2014TampaBayRays
+Tampa Bay Rays,0.475,2014,0,TotalPayroll,76821046,2014TampaBayRays
+Houston Astros,0.432,2014,0,Catchers,3029070,2014HoustonAstros
+Houston Astros,0.432,2014,0,Infielders,5615713,2014HoustonAstros
+Houston Astros,0.432,2014,0,Outfielders,10577938,2014HoustonAstros
+Houston Astros,0.432,2014,0,DH,0,2014HoustonAstros
+Houston Astros,0.432,2014,0,Pitchers,22414743,2014HoustonAstros
+Houston Astros,0.432,2014,0,TotalPayroll,51679490,2014HoustonAstros
+Miami Marlins,0.475,2014,0,Catchers,7595620,2014MiamiMarlins
+Miami Marlins,0.475,2014,0,Infielders,10439393,2014MiamiMarlins
+Miami Marlins,0.475,2014,0,Outfielders,11423934,2014MiamiMarlins
+Miami Marlins,0.475,2014,0,DH,0,2014MiamiMarlins
+Miami Marlins,0.475,2014,0,Pitchers,13037837,2014MiamiMarlins
+Miami Marlins,0.475,2014,0,TotalPayroll,50559679,2014MiamiMarlins
+New York Yankees,0.525,2013,0,Catchers,1528481,2013NewYorkYankees
+New York Yankees,0.525,2013,0,Infielders,69755183,2013NewYorkYankees
+New York Yankees,0.525,2013,0,Outfielders,37378469,2013NewYorkYankees
+New York Yankees,0.525,2013,0,DH,30800000,2013NewYorkYankees
+New York Yankees,0.525,2013,0,Pitchers,80306168,2013NewYorkYankees
+New York Yankees,0.525,2013,0,TotalPayroll,238088940,2013NewYorkYankees
+Los Angeles Dodgers,0.568,2013,3,Catchers,5844983,2013LosAngelesDodgers
+Los Angeles Dodgers,0.568,2013,3,Infielders,36749021,2013LosAngelesDodgers
+Los Angeles Dodgers,0.568,2013,3,Outfielders,63903448,2013LosAngelesDodgers
+Los Angeles Dodgers,0.568,2013,3,DH,15500000,2013LosAngelesDodgers
+Los Angeles Dodgers,0.568,2013,3,Pitchers,85347307,2013LosAngelesDodgers
+Los Angeles Dodgers,0.568,2013,3,TotalPayroll,236694375,2013LosAngelesDodgers
+Boston Red Sox,0.602,2013,5,Catchers,7889426,2013BostonRedSox
+Boston Red Sox,0.602,2013,5,Infielders,34373528,2013BostonRedSox
+Boston Red Sox,0.602,2013,5,Outfielders,28749805,2013BostonRedSox
+Boston Red Sox,0.602,2013,5,DH,14550000,2013BostonRedSox
+Boston Red Sox,0.602,2013,5,Pitchers,77456136,2013BostonRedSox
+Boston Red Sox,0.602,2013,5,TotalPayroll,170734264,2013BostonRedSox
+Philadelphia Phillies,0.451,2013,0,Catchers,6470972,2013PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2013,0,Infielders,47861340,2013PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2013,0,Outfielders,3301802,2013PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2013,0,DH,0,2013PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2013,0,Pitchers,95639147,2013PhiladelphiaPhillies
+Philadelphia Phillies,0.451,2013,0,TotalPayroll,163536898,2013PhiladelphiaPhillies
+Detroit Tigers,0.574,2013,3,Catchers,3980300,2013DetroitTigers
+Detroit Tigers,0.574,2013,3,Infielders,33451227,2013DetroitTigers
+Detroit Tigers,0.574,2013,3,Outfielders,17596010,2013DetroitTigers
+Detroit Tigers,0.574,2013,3,DH,36050000,2013DetroitTigers
+Detroit Tigers,0.574,2013,3,Pitchers,54346330,2013DetroitTigers
+Detroit Tigers,0.574,2013,3,TotalPayroll,155223539,2013DetroitTigers
+Los Angeles Angels,0.481,2013,0,Catchers,5604508,2013LosAngelesAngels
+Los Angeles Angels,0.481,2013,0,Infielders,9359243,2013LosAngelesAngels
+Los Angeles Angels,0.481,2013,0,Outfielders,28608468,2013LosAngelesAngels
+Los Angeles Angels,0.481,2013,0,DH,16540000,2013LosAngelesAngels
+Los Angeles Angels,0.481,2013,0,Pitchers,56444552,2013LosAngelesAngels
+Los Angeles Angels,0.481,2013,0,TotalPayroll,141542644,2013LosAngelesAngels
+San Francisco Giants,0.469,2013,0,Catchers,4801478,2013SanFranciscoGiants
+San Francisco Giants,0.469,2013,0,Infielders,15049882,2013SanFranciscoGiants
+San Francisco Giants,0.469,2013,0,Outfielders,23839250,2013SanFranciscoGiants
+San Francisco Giants,0.469,2013,0,DH,0,2013SanFranciscoGiants
+San Francisco Giants,0.469,2013,0,Pitchers,91692370,2013SanFranciscoGiants
+San Francisco Giants,0.469,2013,0,TotalPayroll,140280186,2013SanFranciscoGiants
+Texas Rangers,0.558,2013,0,Catchers,10440109,2013TexasRangers
+Texas Rangers,0.558,2013,0,Infielders,37056983,2013TexasRangers
+Texas Rangers,0.558,2013,0,Outfielders,6592090,2013TexasRangers
+Texas Rangers,0.558,2013,0,DH,26575000,2013TexasRangers
+Texas Rangers,0.558,2013,0,Pitchers,43498315,2013TexasRangers
+Texas Rangers,0.558,2013,0,TotalPayroll,137937146,2013TexasRangers
+Toronto Blue Jays,0.457,2013,0,Catchers,1636447,2013TorontoBlueJays
+Toronto Blue Jays,0.457,2013,0,Infielders,20376856,2013TorontoBlueJays
+Toronto Blue Jays,0.457,2013,0,Outfielders,29407949,2013TorontoBlueJays
+Toronto Blue Jays,0.457,2013,0,DH,8000000,2013TorontoBlueJays
+Toronto Blue Jays,0.457,2013,0,Pitchers,58868540,2013TorontoBlueJays
+Toronto Blue Jays,0.457,2013,0,TotalPayroll,131771168,2013TorontoBlueJays
+St. Louis Cardinals,0.599,2013,4,Catchers,15022562,2013St.LouisCardinals
+St. Louis Cardinals,0.599,2013,4,Infielders,12885272,2013St.LouisCardinals
+St. Louis Cardinals,0.599,2013,4,Outfielders,3015660,2013St.LouisCardinals
+St. Louis Cardinals,0.599,2013,4,DH,30050000,2013St.LouisCardinals
+St. Louis Cardinals,0.599,2013,4,Pitchers,53756439,2013St.LouisCardinals
+St. Louis Cardinals,0.599,2013,4,TotalPayroll,120192638,2013St.LouisCardinals
+Washington Nationals,0.531,2013,0,Catchers,854691,2013WashingtonNationals
+Washington Nationals,0.531,2013,0,Infielders,18613340,2013WashingtonNationals
+Washington Nationals,0.531,2013,0,Outfielders,28537000,2013WashingtonNationals
+Washington Nationals,0.531,2013,0,DH,10000000,2013WashingtonNationals
+Washington Nationals,0.531,2013,0,Pitchers,48756439,2013WashingtonNationals
+Washington Nationals,0.531,2013,0,TotalPayroll,116584094,2013WashingtonNationals
+Chicago White Sox,0.389,2013,0,Catchers,1648299,2013ChicagoWhiteSox
+Chicago White Sox,0.389,2013,0,Infielders,27490472,2013ChicagoWhiteSox
+Chicago White Sox,0.389,2013,0,Outfielders,6134616,2013ChicagoWhiteSox
+Chicago White Sox,0.389,2013,0,DH,15000000,2013ChicagoWhiteSox
+Chicago White Sox,0.389,2013,0,Pitchers,32656152,2013ChicagoWhiteSox
+Chicago White Sox,0.389,2013,0,TotalPayroll,111777595,2013ChicagoWhiteSox
+Cincinnati Reds,0.556,2013,1,Catchers,2647500,2013CincinnatiReds
+Cincinnati Reds,0.556,2013,1,Infielders,32079071,2013CincinnatiReds
+Cincinnati Reds,0.556,2013,1,Outfielders,19255408,2013CincinnatiReds
+Cincinnati Reds,0.556,2013,1,DH,0,2013CincinnatiReds
+Cincinnati Reds,0.556,2013,1,Pitchers,43675504,2013CincinnatiReds
+Cincinnati Reds,0.556,2013,1,TotalPayroll,106804640,2013CincinnatiReds
+New York Mets,0.457,2013,0,Catchers,648785,2013NewYorkMets
+New York Mets,0.457,2013,0,Infielders,19192154,2013NewYorkMets
+New York Mets,0.457,2013,0,Outfielders,921986,2013NewYorkMets
+New York Mets,0.457,2013,0,DH,0,2013NewYorkMets
+New York Mets,0.457,2013,0,Pitchers,49598311,2013NewYorkMets
+New York Mets,0.457,2013,0,TotalPayroll,101300814,2013NewYorkMets
+Baltimore Orioles,0.525,2013,0,Catchers,6396644,2013BaltimoreOrioles
+Baltimore Orioles,0.525,2013,0,Infielders,23841334,2013BaltimoreOrioles
+Baltimore Orioles,0.525,2013,0,Outfielders,29513522,2013BaltimoreOrioles
+Baltimore Orioles,0.525,2013,0,DH,195464,2013BaltimoreOrioles
+Baltimore Orioles,0.525,2013,0,Pitchers,36419055,2013BaltimoreOrioles
+Baltimore Orioles,0.525,2013,0,TotalPayroll,100415869,2013BaltimoreOrioles
+Chicago Cubs,0.407,2013,0,Catchers,2333327,2013ChicagoCubs
+Chicago Cubs,0.407,2013,0,Infielders,9199134,2013ChicagoCubs
+Chicago Cubs,0.407,2013,0,Outfielders,4629538,2013ChicagoCubs
+Chicago Cubs,0.407,2013,0,DH,0,2013ChicagoCubs
+Chicago Cubs,0.407,2013,0,Pitchers,31895244,2013ChicagoCubs
+Chicago Cubs,0.407,2013,0,TotalPayroll,100052899,2013ChicagoCubs
+Atlanta Braves,0.593,2013,2,Catchers,14038196,2013AtlantaBraves
+Atlanta Braves,0.593,2013,2,Infielders,17924676,2013AtlantaBraves
+Atlanta Braves,0.593,2013,2,Outfielders,29325094,2013AtlantaBraves
+Atlanta Braves,0.593,2013,2,DH,0,2013AtlantaBraves
+Atlanta Braves,0.593,2013,2,Pitchers,26123626,2013AtlantaBraves
+Atlanta Braves,0.593,2013,2,TotalPayroll,94947950,2013AtlantaBraves
+Cleveland Guardians,0.568,2013,1,Catchers,457868,2013ClevelandGuardians
+Cleveland Guardians,0.568,2013,1,Infielders,10009400,2013ClevelandGuardians
+Cleveland Guardians,0.568,2013,1,Outfielders,24897671,2013ClevelandGuardians
+Cleveland Guardians,0.568,2013,1,DH,750000,2013ClevelandGuardians
+Cleveland Guardians,0.568,2013,1,Pitchers,41339526,2013ClevelandGuardians
+Cleveland Guardians,0.568,2013,1,TotalPayroll,93008897,2013ClevelandGuardians
+Arizona Diamondbacks,0.5,2013,0,Catchers,10941912,2013ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2013,0,Infielders,20510780,2013ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2013,0,Outfielders,9332000,2013ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2013,0,DH,133879,2013ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2013,0,Pitchers,37207472,2013ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2013,0,TotalPayroll,88316478,2013ArizonaDiamondbacks
+Milwaukee Brewers,0.457,2013,0,Catchers,2494000,2013MilwaukeeBrewers
+Milwaukee Brewers,0.457,2013,0,Infielders,23601015,2013MilwaukeeBrewers
+Milwaukee Brewers,0.457,2013,0,Outfielders,17794547,2013MilwaukeeBrewers
+Milwaukee Brewers,0.457,2013,0,DH,0,2013MilwaukeeBrewers
+Milwaukee Brewers,0.457,2013,0,Pitchers,25253128,2013MilwaukeeBrewers
+Milwaukee Brewers,0.457,2013,0,TotalPayroll,88221045,2013MilwaukeeBrewers
+Kansas City Royals,0.531,2013,0,Catchers,2171311,2013KansasCityRoyals
+Kansas City Royals,0.531,2013,0,Infielders,7532678,2013KansasCityRoyals
+Kansas City Royals,0.531,2013,0,Outfielders,11399624,2013KansasCityRoyals
+Kansas City Royals,0.531,2013,0,DH,8500000,2013KansasCityRoyals
+Kansas City Royals,0.531,2013,0,Pitchers,46991060,2013KansasCityRoyals
+Kansas City Royals,0.531,2013,0,TotalPayroll,85398434,2013KansasCityRoyals
+Seattle Mariners,0.438,2013,0,Catchers,1092370,2013SeattleMariners
+Seattle Mariners,0.438,2013,0,Infielders,4136748,2013SeattleMariners
+Seattle Mariners,0.438,2013,0,Outfielders,8708706,2013SeattleMariners
+Seattle Mariners,0.438,2013,0,DH,8000000,2013SeattleMariners
+Seattle Mariners,0.438,2013,0,Pitchers,41328472,2013SeattleMariners
+Seattle Mariners,0.438,2013,0,TotalPayroll,82720022,2013SeattleMariners
+Minnesota Twins,0.407,2013,0,Catchers,3896283,2013MinnesotaTwins
+Minnesota Twins,0.407,2013,0,Infielders,25610149,2013MinnesotaTwins
+Minnesota Twins,0.407,2013,0,Outfielders,8009502,2013MinnesotaTwins
+Minnesota Twins,0.407,2013,0,DH,0,2013MinnesotaTwins
+Minnesota Twins,0.407,2013,0,Pitchers,19269083,2013MinnesotaTwins
+Minnesota Twins,0.407,2013,0,TotalPayroll,81300970,2013MinnesotaTwins
+Colorado Rockies,0.457,2013,0,Catchers,1000000,2013ColoradoRockies
+Colorado Rockies,0.457,2013,0,Infielders,18669708,2013ColoradoRockies
+Colorado Rockies,0.457,2013,0,Outfielders,22734672,2013ColoradoRockies
+Colorado Rockies,0.457,2013,0,DH,0,2013ColoradoRockies
+Colorado Rockies,0.457,2013,0,Pitchers,31361638,2013ColoradoRockies
+Colorado Rockies,0.457,2013,0,TotalPayroll,79017288,2013ColoradoRockies
+San Diego Padres,0.469,2013,0,Catchers,4550778,2013SanDiegoPadres
+San Diego Padres,0.469,2013,0,Infielders,13163096,2013SanDiegoPadres
+San Diego Padres,0.469,2013,0,Outfielders,18668715,2013SanDiegoPadres
+San Diego Padres,0.469,2013,0,DH,0,2013SanDiegoPadres
+San Diego Padres,0.469,2013,0,Pitchers,27233305,2013SanDiegoPadres
+San Diego Padres,0.469,2013,0,TotalPayroll,73286341,2013SanDiegoPadres
+Tampa Bay Rays,0.564,2013,2,Catchers,2376827,2013TampaBayRays
+Tampa Bay Rays,0.564,2013,2,Infielders,25353752,2013TampaBayRays
+Tampa Bay Rays,0.564,2013,2,Outfielders,4886416,2013TampaBayRays
+Tampa Bay Rays,0.564,2013,2,DH,2750000,2013TampaBayRays
+Tampa Bay Rays,0.564,2013,2,Pitchers,34662398,2013TampaBayRays
+Tampa Bay Rays,0.564,2013,2,TotalPayroll,72600703,2013TampaBayRays
+Pittsburgh Pirates,0.58,2013,2,Catchers,9310753,2013PittsburghPirates
+Pittsburgh Pirates,0.58,2013,2,Infielders,14311971,2013PittsburghPirates
+Pittsburgh Pirates,0.58,2013,2,Outfielders,12310899,2013PittsburghPirates
+Pittsburgh Pirates,0.58,2013,2,DH,0,2013PittsburghPirates
+Pittsburgh Pirates,0.58,2013,2,Pitchers,29329282,2013PittsburghPirates
+Pittsburgh Pirates,0.58,2013,2,TotalPayroll,71480984,2013PittsburghPirates
+Oakland Athletics,0.593,2013,2,Catchers,2070587,2013OaklandAthletics
+Oakland Athletics,0.593,2013,2,Infielders,7067642,2013OaklandAthletics
+Oakland Athletics,0.593,2013,2,Outfielders,30265327,2013OaklandAthletics
+Oakland Athletics,0.593,2013,2,DH,1600000,2013OaklandAthletics
+Oakland Athletics,0.593,2013,2,Pitchers,21187016,2013OaklandAthletics
+Oakland Athletics,0.593,2013,2,TotalPayroll,67055517,2013OaklandAthletics
+Miami Marlins,0.383,2013,0,Catchers,2064971,2013MiamiMarlins
+Miami Marlins,0.383,2013,0,Infielders,8668176,2013MiamiMarlins
+Miami Marlins,0.383,2013,0,Outfielders,5450766,2013MiamiMarlins
+Miami Marlins,0.383,2013,0,DH,303494,2013MiamiMarlins
+Miami Marlins,0.383,2013,0,Pitchers,9051932,2013MiamiMarlins
+Miami Marlins,0.383,2013,0,TotalPayroll,36209554,2013MiamiMarlins
+Houston Astros,0.315,2013,0,Catchers,1101381,2013HoustonAstros
+Houston Astros,0.315,2013,0,Infielders,2663931,2013HoustonAstros
+Houston Astros,0.315,2013,0,Outfielders,2231785,2013HoustonAstros
+Houston Astros,0.315,2013,0,DH,497800,2013HoustonAstros
+Houston Astros,0.315,2013,0,Pitchers,5180169,2013HoustonAstros
+Houston Astros,0.315,2013,0,TotalPayroll,35567913,2013HoustonAstros
+New York Yankees,0.586,2012,3,Catchers,8978200,2012NewYorkYankees
+New York Yankees,0.586,2012,3,Infielders,57250097,2012NewYorkYankees
+New York Yankees,0.586,2012,3,Outfielders,33881420,2012NewYorkYankees
+New York Yankees,0.586,2012,3,DH,31100000,2012NewYorkYankees
+New York Yankees,0.586,2012,3,Pitchers,83727215,2012NewYorkYankees
+New York Yankees,0.586,2012,3,TotalPayroll,228085456,2012NewYorkYankees
+Philadelphia Phillies,0.5,2012,0,Catchers,5460000,2012PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2012,0,Infielders,57078636,2012PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2012,0,Outfielders,14266748,2012PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2012,0,DH,1250000,2012PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2012,0,Pitchers,90929074,2012PhiladelphiaPhillies
+Philadelphia Phillies,0.5,2012,0,TotalPayroll,179302491,2012PhiladelphiaPhillies
+Boston Red Sox,0.426,2012,0,Catchers,2980000,2012BostonRedSox
+Boston Red Sox,0.426,2012,0,Infielders,36309642,2012BostonRedSox
+Boston Red Sox,0.426,2012,0,Outfielders,36110139,2012BostonRedSox
+Boston Red Sox,0.426,2012,0,DH,14575000,2012BostonRedSox
+Boston Red Sox,0.426,2012,0,Pitchers,78480499,2012BostonRedSox
+Boston Red Sox,0.426,2012,0,TotalPayroll,175279051,2012BostonRedSox
+Los Angeles Angels,0.549,2012,0,Catchers,4600834,2012LosAngelesAngels
+Los Angeles Angels,0.549,2012,0,Infielders,12672667,2012LosAngelesAngels
+Los Angeles Angels,0.549,2012,0,Outfielders,58078689,2012LosAngelesAngels
+Los Angeles Angels,0.549,2012,0,DH,15475000,2012LosAngelesAngels
+Los Angeles Angels,0.549,2012,0,Pitchers,63017500,2012LosAngelesAngels
+Los Angeles Angels,0.549,2012,0,TotalPayroll,157168625,2012LosAngelesAngels
+Detroit Tigers,0.543,2012,4,Catchers,1510000,2012DetroitTigers
+Detroit Tigers,0.543,2012,4,Infielders,31224076,2012DetroitTigers
+Detroit Tigers,0.543,2012,4,Outfielders,12286682,2012DetroitTigers
+Detroit Tigers,0.543,2012,4,DH,36150000,2012DetroitTigers
+Detroit Tigers,0.543,2012,4,Pitchers,57111528,2012DetroitTigers
+Detroit Tigers,0.543,2012,4,TotalPayroll,143782286,2012DetroitTigers
+Texas Rangers,0.574,2012,1,Catchers,0,2012TexasRangers
+Texas Rangers,0.574,2012,1,Infielders,52362345,2012TexasRangers
+Texas Rangers,0.574,2012,1,Outfielders,19040857,2012TexasRangers
+Texas Rangers,0.574,2012,1,DH,8875000,2012TexasRangers
+Texas Rangers,0.574,2012,1,Pitchers,54784701,2012TexasRangers
+Texas Rangers,0.574,2012,1,TotalPayroll,138312903,2012TexasRangers
+San Francisco Giants,0.58,2012,5,Catchers,1270000,2012SanFranciscoGiants
+San Francisco Giants,0.58,2012,5,Infielders,24584229,2012SanFranciscoGiants
+San Francisco Giants,0.58,2012,5,Outfielders,12410066,2012SanFranciscoGiants
+San Francisco Giants,0.58,2012,5,DH,0,2012SanFranciscoGiants
+San Francisco Giants,0.58,2012,5,Pitchers,84081043,2012SanFranciscoGiants
+San Francisco Giants,0.58,2012,5,TotalPayroll,137043205,2012SanFranciscoGiants
+St. Louis Cardinals,0.543,2012,3,Catchers,8541000,2012St.LouisCardinals
+St. Louis Cardinals,0.543,2012,3,Infielders,9906000,2012St.LouisCardinals
+St. Louis Cardinals,0.543,2012,3,Outfielders,3459000,2012St.LouisCardinals
+St. Louis Cardinals,0.543,2012,3,DH,42100000,2012St.LouisCardinals
+St. Louis Cardinals,0.543,2012,3,Pitchers,54476081,2012St.LouisCardinals
+St. Louis Cardinals,0.543,2012,3,TotalPayroll,119957765,2012St.LouisCardinals
+Los Angeles Dodgers,0.531,2012,0,Catchers,1820000,2012LosAngelesDodgers
+Los Angeles Dodgers,0.531,2012,0,Infielders,19601500,2012LosAngelesDodgers
+Los Angeles Dodgers,0.531,2012,0,Outfielders,36749912,2012LosAngelesDodgers
+Los Angeles Dodgers,0.531,2012,0,DH,5819672,2012LosAngelesDodgers
+Los Angeles Dodgers,0.531,2012,0,Pitchers,48961633,2012LosAngelesDodgers
+Los Angeles Dodgers,0.531,2012,0,TotalPayroll,117584717,2012LosAngelesDodgers
+Chicago Cubs,0.377,2012,0,Catchers,5260500,2012ChicagoCubs
+Chicago Cubs,0.377,2012,0,Infielders,8197200,2012ChicagoCubs
+Chicago Cubs,0.377,2012,0,Outfielders,9637044,2012ChicagoCubs
+Chicago Cubs,0.377,2012,0,DH,19000000,2012ChicagoCubs
+Chicago Cubs,0.377,2012,0,Pitchers,41704622,2012ChicagoCubs
+Chicago Cubs,0.377,2012,0,TotalPayroll,116341526,2012ChicagoCubs
+Milwaukee Brewers,0.512,2012,0,Catchers,1114098,2012MilwaukeeBrewers
+Milwaukee Brewers,0.512,2012,0,Infielders,24471495,2012MilwaukeeBrewers
+Milwaukee Brewers,0.512,2012,0,Outfielders,24785833,2012MilwaukeeBrewers
+Milwaukee Brewers,0.512,2012,0,DH,0,2012MilwaukeeBrewers
+Milwaukee Brewers,0.512,2012,0,Pitchers,57780653,2012MilwaukeeBrewers
+Milwaukee Brewers,0.512,2012,0,TotalPayroll,110595795,2012MilwaukeeBrewers
+Minnesota Twins,0.407,2012,0,Catchers,4440000,2012MinnesotaTwins
+Minnesota Twins,0.407,2012,0,Infielders,47677827,2012MinnesotaTwins
+Minnesota Twins,0.407,2012,0,Outfielders,12892500,2012MinnesotaTwins
+Minnesota Twins,0.407,2012,0,DH,0,2012MinnesotaTwins
+Minnesota Twins,0.407,2012,0,Pitchers,43889180,2012MinnesotaTwins
+Minnesota Twins,0.407,2012,0,TotalPayroll,108899507,2012MinnesotaTwins
+Chicago White Sox,0.525,2012,0,Catchers,6483000,2012ChicagoWhiteSox
+Chicago White Sox,0.525,2012,0,Infielders,19832622,2012ChicagoWhiteSox
+Chicago White Sox,0.525,2012,0,Outfielders,17288770,2012ChicagoWhiteSox
+Chicago White Sox,0.525,2012,0,DH,14000000,2012ChicagoWhiteSox
+Chicago White Sox,0.525,2012,0,Pitchers,50515352,2012ChicagoWhiteSox
+Chicago White Sox,0.525,2012,0,TotalPayroll,108841055,2012ChicagoWhiteSox
+New York Mets,0.457,2012,0,Catchers,1836029,2012NewYorkMets
+New York Mets,0.457,2012,0,Infielders,19908522,2012NewYorkMets
+New York Mets,0.457,2012,0,Outfielders,23365000,2012NewYorkMets
+New York Mets,0.457,2012,0,DH,0,2012NewYorkMets
+New York Mets,0.457,2012,0,Pitchers,55940091,2012NewYorkMets
+New York Mets,0.457,2012,0,TotalPayroll,104988166,2012NewYorkMets
+Miami Marlins,0.426,2012,0,Catchers,7460000,2012MiamiMarlins
+Miami Marlins,0.426,2012,0,Infielders,13578688,2012MiamiMarlins
+Miami Marlins,0.426,2012,0,Outfielders,6400000,2012MiamiMarlins
+Miami Marlins,0.426,2012,0,DH,480000,2012MiamiMarlins
+Miami Marlins,0.426,2012,0,Pitchers,52827217,2012MiamiMarlins
+Miami Marlins,0.426,2012,0,TotalPayroll,98120191,2012MiamiMarlins
+Washington Nationals,0.605,2012,2,Catchers,3267785,2012WashingtonNationals
+Washington Nationals,0.605,2012,2,Infielders,18053000,2012WashingtonNationals
+Washington Nationals,0.605,2012,2,Outfielders,22137428,2012WashingtonNationals
+Washington Nationals,0.605,2012,2,DH,8000000,2012WashingtonNationals
+Washington Nationals,0.605,2012,2,Pitchers,44165381,2012WashingtonNationals
+Washington Nationals,0.605,2012,2,TotalPayroll,98044359,2012WashingtonNationals
+Atlanta Braves,0.58,2012,1,Catchers,13871666,2012AtlantaBraves
+Atlanta Braves,0.58,2012,1,Infielders,36194508,2012AtlantaBraves
+Atlanta Braves,0.58,2012,1,Outfielders,9535000,2012AtlantaBraves
+Atlanta Braves,0.58,2012,1,DH,0,2012AtlantaBraves
+Atlanta Braves,0.58,2012,1,Pitchers,26891442,2012AtlantaBraves
+Atlanta Braves,0.58,2012,1,TotalPayroll,97928056,2012AtlantaBraves
+Toronto Blue Jays,0.451,2012,0,Catchers,1500000,2012TorontoBlueJays
+Toronto Blue Jays,0.451,2012,0,Infielders,21957100,2012TorontoBlueJays
+Toronto Blue Jays,0.451,2012,0,Outfielders,25430000,2012TorontoBlueJays
+Toronto Blue Jays,0.451,2012,0,DH,3500000,2012TorontoBlueJays
+Toronto Blue Jays,0.451,2012,0,Pitchers,37910558,2012TorontoBlueJays
+Toronto Blue Jays,0.451,2012,0,TotalPayroll,97031627,2012TorontoBlueJays
+Cincinnati Reds,0.599,2012,0,Catchers,2580000,2012CincinnatiReds
+Cincinnati Reds,0.599,2012,0,Infielders,36916668,2012CincinnatiReds
+Cincinnati Reds,0.599,2012,0,Outfielders,9728232,2012CincinnatiReds
+Cincinnati Reds,0.599,2012,0,DH,0,2012CincinnatiReds
+Cincinnati Reds,0.599,2012,0,Pitchers,39876598,2012CincinnatiReds
+Cincinnati Reds,0.599,2012,0,TotalPayroll,89901498,2012CincinnatiReds
+Colorado Rockies,0.395,2012,0,Catchers,3200000,2012ColoradoRockies
+Colorado Rockies,0.395,2012,0,Infielders,17497000,2012ColoradoRockies
+Colorado Rockies,0.395,2012,0,Outfielders,19780063,2012ColoradoRockies
+Colorado Rockies,0.395,2012,0,DH,1000000,2012ColoradoRockies
+Colorado Rockies,0.395,2012,0,Pitchers,34921041,2012ColoradoRockies
+Colorado Rockies,0.395,2012,0,TotalPayroll,87232529,2012ColoradoRockies
+Seattle Mariners,0.463,2012,0,Catchers,4720500,2012SeattleMariners
+Seattle Mariners,0.463,2012,0,Infielders,16718287,2012SeattleMariners
+Seattle Mariners,0.463,2012,0,Outfielders,8733800,2012SeattleMariners
+Seattle Mariners,0.463,2012,0,DH,0,2012SeattleMariners
+Seattle Mariners,0.463,2012,0,Pitchers,42898761,2012SeattleMariners
+Seattle Mariners,0.463,2012,0,TotalPayroll,84289928,2012SeattleMariners
+Baltimore Orioles,0.574,2012,2,Catchers,2469500,2012BaltimoreOrioles
+Baltimore Orioles,0.574,2012,2,Infielders,29340786,2012BaltimoreOrioles
+Baltimore Orioles,0.574,2012,2,Outfielders,22800500,2012BaltimoreOrioles
+Baltimore Orioles,0.574,2012,2,DH,0,2012BaltimoreOrioles
+Baltimore Orioles,0.574,2012,2,Pitchers,25488595,2012BaltimoreOrioles
+Baltimore Orioles,0.574,2012,2,TotalPayroll,82932168,2012BaltimoreOrioles
+Arizona Diamondbacks,0.5,2012,0,Catchers,7997213,2012ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2012,0,Infielders,15664500,2012ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2012,0,Outfielders,22776726,2012ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2012,0,DH,0,2012ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2012,0,Pitchers,27635961,2012ArizonaDiamondbacks
+Arizona Diamondbacks,0.5,2012,0,TotalPayroll,82411013,2012ArizonaDiamondbacks
+Cleveland Guardians,0.42,2012,0,Catchers,1189405,2012ClevelandGuardians
+Cleveland Guardians,0.42,2012,0,Infielders,12753000,2012ClevelandGuardians
+Cleveland Guardians,0.42,2012,0,Outfielders,15027600,2012ClevelandGuardians
+Cleveland Guardians,0.42,2012,0,DH,13000000,2012ClevelandGuardians
+Cleveland Guardians,0.42,2012,0,Pitchers,29093249,2012ClevelandGuardians
+Cleveland Guardians,0.42,2012,0,TotalPayroll,77057243,2012ClevelandGuardians
+Kansas City Royals,0.444,2012,0,Catchers,3105425,2012KansasCityRoyals
+Kansas City Royals,0.444,2012,0,Infielders,6880850,2012KansasCityRoyals
+Kansas City Royals,0.444,2012,0,Outfielders,16052475,2012KansasCityRoyals
+Kansas City Royals,0.444,2012,0,DH,8500000,2012KansasCityRoyals
+Kansas City Royals,0.444,2012,0,Pitchers,31846250,2012KansasCityRoyals
+Kansas City Royals,0.444,2012,0,TotalPayroll,70344235,2012KansasCityRoyals
+Tampa Bay Rays,0.556,2012,0,Catchers,3422200,2012TampaBayRays
+Tampa Bay Rays,0.556,2012,0,Infielders,19864975,2012TampaBayRays
+Tampa Bay Rays,0.556,2012,0,Outfielders,9241455,2012TampaBayRays
+Tampa Bay Rays,0.556,2012,0,DH,5000000,2012TampaBayRays
+Tampa Bay Rays,0.556,2012,0,Pitchers,30315505,2012TampaBayRays
+Tampa Bay Rays,0.556,2012,0,TotalPayroll,69854135,2012TampaBayRays
+San Diego Padres,0.469,2012,0,Catchers,2750000,2012SanDiegoPadres
+San Diego Padres,0.469,2012,0,Infielders,18284000,2012SanDiegoPadres
+San Diego Padres,0.469,2012,0,Outfielders,12807400,2012SanDiegoPadres
+San Diego Padres,0.469,2012,0,DH,0,2012SanDiegoPadres
+San Diego Padres,0.469,2012,0,Pitchers,26210025,2012SanDiegoPadres
+San Diego Padres,0.469,2012,0,TotalPayroll,63828925,2012SanDiegoPadres
+Pittsburgh Pirates,0.488,2012,0,Catchers,4485000,2012PittsburghPirates
+Pittsburgh Pirates,0.488,2012,0,Infielders,11325114,2012PittsburghPirates
+Pittsburgh Pirates,0.488,2012,0,Outfielders,6872610,2012PittsburghPirates
+Pittsburgh Pirates,0.488,2012,0,DH,0,2012PittsburghPirates
+Pittsburgh Pirates,0.488,2012,0,Pitchers,35249755,2012PittsburghPirates
+Pittsburgh Pirates,0.488,2012,0,TotalPayroll,61118682,2012PittsburghPirates
+Oakland Athletics,0.58,2012,2,Catchers,1216284,2012OaklandAthletics
+Oakland Athletics,0.58,2012,2,Infielders,8204550,2012OaklandAthletics
+Oakland Athletics,0.58,2012,2,Outfielders,17362500,2012OaklandAthletics
+Oakland Athletics,0.58,2012,2,DH,480000,2012OaklandAthletics
+Oakland Athletics,0.58,2012,2,Pitchers,29345000,2012OaklandAthletics
+Oakland Athletics,0.58,2012,2,TotalPayroll,60470192,2012OaklandAthletics
+Houston Astros,0.34,2012,0,Catchers,1716000,2012HoustonAstros
+Houston Astros,0.34,2012,0,Infielders,4538000,2012HoustonAstros
+Houston Astros,0.34,2012,0,Outfielders,3952000,2012HoustonAstros
+Houston Astros,0.34,2012,0,DH,483000,2012HoustonAstros
+Houston Astros,0.34,2012,0,Pitchers,13039500,2012HoustonAstros
+Houston Astros,0.34,2012,0,TotalPayroll,54547239,2012HoustonAstros
