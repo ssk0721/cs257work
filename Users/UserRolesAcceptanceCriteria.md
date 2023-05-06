@@ -1,8 +1,7 @@
 User Role: Front office Member
 
 
-User Story: As a front office member, I want to compare the positional spending of all playoff teams in the past year so that I can decide how to spend a
-$50 million budget for the next offseason
+User Story:  
 Acceptance Criteria: The website is able to showcase all playoff teams of a given year in the same screen, along with table and graph comparisons of those teams
 Acceptance Test 1: Given a user inputs only a year, there is a prompt that asks the user the filter type (team type, position, total payroll spent, total spent position),
 which then the user can select "team type", to which they will be asked another prompt on the type of teams they want to view (all teams, all playoff teams, all teams that
