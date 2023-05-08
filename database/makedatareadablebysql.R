@@ -9,6 +9,10 @@ salaries <- salaries %>%
   mutate(teamyearID = trim(paste(year, Team, sep = ""))) 
 
 
+
+
+
+
 salaries$teamyearID <- str_replace_all(string=salaries$teamyearID, pattern=" ", repl="")
 
 tibble::rowid_to_column(salaries, "ID")
@@ -16,3 +20,9 @@ colnames(salaries)[2] = "WinPercentage"
 
 
 write_csv(salaries, "dataSoftwareDesign.csv")
+
+salarieswide <- read_csv("dataSoftwareDesignwide.csv") %>%
+  dplyr::select(-1)
+
+write_csv(salarieswide, "dataSoftwareDesignwide.csv" )
+
