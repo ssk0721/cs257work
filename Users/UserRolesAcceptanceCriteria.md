@@ -3,11 +3,11 @@ User Role: Front office Member
 
 User Story: As a front office member, I want to compare the positional spending of all playoff teams in the past year so that I can decide how to spend a $50 million budget for the next offseason
 
-Acceptance Criteria: The website is able to showcase the relationship between positional spendding and whether a team made the playoffs.
+Acceptance Criteria: The website is able to showcase all playoff teams of a given year in the same screen, along with how they spent on particular position groups.
 
-Acceptance Test 1: Given a user inputs a valid position group and a valid entry for the round of the playoffs, spending information on the teams that made that round of playoffs will be displayed.
+Acceptance Test 1: Given a user inputs a valid year, spending information of position groups on the teams that made the playoffs that year will be displayed.
 
-Acceptance Test 2: Given a user inputs an invalid position group or an invalid entry for the round of the playoffs, information on why the input(s) was invalid will be displayed.
+Acceptance Test 2: Given a user inputs an invalid year, information on why the input was invalid will be displayed.
 
 
 
