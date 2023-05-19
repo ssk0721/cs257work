@@ -1,0 +1,72 @@
+
+h1, h2{
+    font-family: Verdana, Geneva, sans-serif;
+    color: rgb(83,99,124); 
+}
+
+
+
+.caption {
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 1.4;
+    font-size: 18px;
+    color: rgb(30, 32, 35); 
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+#averageperpositiongroupgraph {
+    width: 500px;
+    height: 400px;
+    display: block;
+}
+
+.left, .right {
+    display: inline-block;
+    width: 700px;
+    height: 600px;
+  }
+
+
+
+/* Navigation bar style */
+nav ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(164,172,188);
+    list-style-type: none;
+    font-family: Verdana, Geneva, sans-serif
+    
+}
+
+/* Style the navigation bar links */
+nav li a {
+    float: left;
+    display: block;
+    color: white;
+    padding: 25px 30px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav li a.rightnavbar {
+    float: right;
+}
+
+/* Change color on hover */
+nav li a:hover {
+    background-color: white;
+    color: rgb(83,99,124);
+}
+
+p {
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 1.4;
+}
+
